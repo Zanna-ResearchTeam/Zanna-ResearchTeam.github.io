@@ -28,10 +28,10 @@
     </item>
     
     <item>
-      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
+      <title>Global Pycnocline depth constrains Ocean Heat Uptake Efficiency</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -39,6 +39,47 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Data-driven stochastic parameterizations of subgrid mesoscale eddies in an idealized ocean model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD and Postdoc Openings</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/2023-openings/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/2023-openings/</guid>
+      <description>&lt;p&gt;Join us if you are interested in working on ocean and climate physics.&lt;/p&gt;
+&lt;p&gt;We are looking for PhD students and Postdocs; applications due in early December. Follow to this &lt;a href=&#34;https://zanna-researchteam.github.io/opportunities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; for further details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2023/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -46,13 +87,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/yankovsky-2022/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/yankovsky-2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -60,8 +95,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/marques-et-al-2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/marques-et-al-2022/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -69,13 +103,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2022/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -83,13 +111,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/couldrey-et-al-2022/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/couldrey-et-al-2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -97,8 +119,40 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/liu-et-al-2021/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/liu-et-al-2021/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-08-benchmarking/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-08-benchmarking/</guid>
+      <description>&lt;p&gt;New preprint by Ross et al.&lt;/p&gt;
+&lt;p&gt;In this &lt;a href=&#34;https://doi.org/10.1002/essoar.10511742.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;work&lt;/a&gt;, led by Andrew Ross, with Ziwei Li, Pavel Perezhogin, Carlos Fernandez-Granda and Laure Zanna, we provide a framework for systematically benchmarking the offline and online performance of physical and ML-based subgrid parameterizations. We find that the choice of filtering operator is critical for performance. To help with interpretability, we also propose a novel equation-discovery approach combining linear regression and genetic programming which generalizes better than physical and neural network parameterizations.&lt;/p&gt;
+&lt;p&gt;See code and notebooks here: &lt;a href=&#34;https://github.com/m2lines/pyqg_parameterization_benchmarks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/m2lines/pyqg_parameterization_benchmarks&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Powerful ‘Machine Scientists’ Distill the Laws of Physics From Raw Data</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-10-01-quanta/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-10-01-quanta/</guid>
+      <description>&lt;p&gt;New Quanta Magazine Article on equation discovery for physics discovery featuring many examples including our work on ocean turbulence&lt;/p&gt;
+&lt;p&gt;Read our &lt;a href=&#34;https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;press release&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to announce the launch of our new international project &lt;a href=&#34;https://m2lines.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M²LInES&lt;/a&gt; – Multiscale Machine Learning In coupled Earth System Modeling – aimed at deepening our understanding of climate processes, and improving climate projections using scientific machine learning. Our &lt;a href=&#34;https://m2lines.github.io/team/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt; includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.&lt;/p&gt;
+&lt;p&gt;The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning (ML). We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. In addition, we will work on overcoming challenges related to ML for climate modeling including sampling efficiency, generalization, interpretability and uncertainty quantification.&lt;/p&gt;
+&lt;p&gt;We are looking for 1 project manager and 12 postdocs right now at several institutions, please visit &lt;a href=&#34;https://m2lines.github.io/jobs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://m2lines.github.io/jobs/&lt;/a&gt; for more info about the different positions available, and how to apply. This is a highly collaborative project, and the researchers are expected to interact with different groups.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Plenary Talk @ 2022 CESM workshop</title>
+      <link>https://Zanna-ResearchTeam.github.io/post/22-06-cesm_workshop/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/post/22-06-cesm_workshop/</guid>
+      <description>&lt;p&gt;Plenary talk on M²LInES and LEAP at the 2022 CESM Workshop on June 13-16, 2022.&lt;/p&gt;
+&lt;p&gt;Please visit the &lt;a href=&#34;https://www.cesm.ucar.edu/events/workshops/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; to register as well as submit working group session talks and /or posters. The deadline to submit a talk / poster is Monday, May 16th.&lt;/p&gt;
+&lt;p&gt;The full workshop agenda can be found &lt;a href=&#34;https://www.cesm.ucar.edu/events/workshops/2022/files/2022-cesm-workshop-agenda.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In particular, &lt;strong&gt;Laure Zanna&lt;/strong&gt; will give a joint plenary talk on M²LInES with Galen McKinley from LEAP.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,13 +160,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/chemke-et-al-2022/</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/chemke-et-al-2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -120,6 +168,14 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2022/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of Warming Patterns on Passive Ocean Heat Uptake</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2021/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -134,13 +190,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/loose-et-al-2022/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/loose-et-al-2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -179,13 +229,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/wang-et-al-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/wang-et-al-2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -193,13 +237,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/zanna-bolton-2021/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/zanna-bolton-2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -207,13 +245,7 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/guillaumin-zanna-2021/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/guillaumin-zanna-2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -715,7 +747,7 @@ estions over the recent weeks). For the most recent update (March 15th, v0) whic
 &lt;p&gt;The datasets for the upper 300 m, upper 700 m, upper 2000 m, below 2000 m, and full depth (with errors defined as one-SD and derived from perturbing the Green’s Functions and from the use of different SSTs) are here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/wa5u5bc5y5mym88/OHC_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ocean Heat Content (v0) 1870-2018&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/4b1piqgjdekj1gc/ThSL_GF_1870_2018.nc?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thermosteric Sea Level (v0) 1870-2018&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For further details regarding the method, please consult our &lt;a href=&#34;https://laurezanna.github.io/files/Zanna-et-al-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt; and &lt;a href=&#34;https://laurezanna.github.io/files/Zanna-et-al-SI-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementary material&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;For further details regarding the method, please consult our &lt;a href=&#34;https://zanna-researchteam.github.io/files/Zanna-et-al-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;manuscript&lt;/a&gt; and &lt;a href=&#34;https://zanna-researchteam.github.io/files/Zanna-et-al-SI-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementary material&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -905,13 +937,7 @@ hed on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrad
       <link>https://Zanna-ResearchTeam.github.io/publication/bachman-et-al-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/bachman-et-al-2018/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1087,13 +1113,7 @@ hed on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrad
       <link>https://Zanna-ResearchTeam.github.io/publication/anstey-zanna-2017/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/anstey-zanna-2017/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -1101,13 +1121,7 @@ hed on the &lt;a href=&#34;https://www.wadham.ox.ac.uk/news/2018/december/upgrad
       <link>https://Zanna-ResearchTeam.github.io/publication/andrejczuk-et-al-2016/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/andrejczuk-et-al-2016/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
