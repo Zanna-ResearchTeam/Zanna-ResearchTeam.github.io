@@ -28,9 +28,33 @@
     </item>
     
     <item>
+      <title>Data-driven multiscale modeling of subgrid parameterizations in climate models</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/otness-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/otness-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Global Pycnocline depth constrains Ocean Heat Uptake Efficiency</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</link>
-      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,10 +66,18 @@
     </item>
     
     <item>
-      <title>Data-driven stochastic parameterizations of subgrid mesoscale eddies in an idealized ocean model</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</guid>
+      <title>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
       <description></description>
     </item>
     
@@ -56,30 +88,6 @@
       <guid>https://Zanna-ResearchTeam.github.io/post/2023-openings/</guid>
       <description>&lt;p&gt;Join us if you are interested in working on ocean and climate physics.&lt;/p&gt;
 &lt;p&gt;We are looking for PhD students and Postdocs; applications due in early December. Follow to this &lt;a href=&#34;https://zanna-researchteam.github.io/opportunities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; for further details.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2023/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/cheng-et-al-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
-      <description></description>
     </item>
     
     <item>
