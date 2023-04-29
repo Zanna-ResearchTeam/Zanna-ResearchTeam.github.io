@@ -5,12 +5,28 @@
     <link>https://Zanna-ResearchTeam.github.io/publication-type/2/</link>
       <atom:link href="https://Zanna-ResearchTeam.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Zanna-ResearchTeam.github.io/media/icon_hub370ab1a34d7d9fe5734b6e9fabbc174_24334_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://Zanna-ResearchTeam.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametrization in Weather and Climate Models</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/christensen-zanna-2022/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/christensen-zanna-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Influences of Mesoscale Ocean Eddies on Flow Vertical Structure in a Resolution-Based Model Hierarchy</title>
