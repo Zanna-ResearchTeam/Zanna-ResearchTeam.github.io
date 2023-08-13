@@ -5,12 +5,20 @@
     <link>https://Zanna-ResearchTeam.github.io/author/aurora-basinski/</link>
       <atom:link href="https://Zanna-ResearchTeam.github.io/author/aurora-basinski/index.xml" rel="self" type="application/rss+xml" />
     <description>Aurora Basinski</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Zanna-ResearchTeam.github.io/author/aurora-basinski/avatar_hu86f701194a15ca3d4f754e102c88fe85_1492444_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Aurora Basinski</title>
       <link>https://Zanna-ResearchTeam.github.io/author/aurora-basinski/</link>
     </image>
+    
+    <item>
+      <title>Estimating freshwater flux amplification with ocean tracers via linear response theory</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/basinski-ferris-zanna-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/basinski-ferris-zanna-2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

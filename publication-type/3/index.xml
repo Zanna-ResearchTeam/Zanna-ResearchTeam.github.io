@@ -27,10 +27,34 @@
     </item>
     
     <item>
+      <title>Causal inference in spatiotemporal climate fields through linear response theory</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023b/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/yu-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/yu-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep learning of systematic sea ice model errors from data assimilation increments</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering causal relations and equations from data</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/camps-valls-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/camps-valls-et-al-2023/</guid>
       <description></description>
     </item>
     
@@ -55,6 +79,22 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/jakhar-et-al-203/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/jakhar-et-al-203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/sane-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/sane-et-al-2023/</guid>
       <description></description>
     </item>
     

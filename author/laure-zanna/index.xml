@@ -27,6 +27,14 @@
     </item>
     
     <item>
+      <title>Causal inference in spatiotemporal climate fields through linear response theory</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023b/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data-driven multiscale modeling of subgrid parameterizations in climate models</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/otness-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -39,6 +47,14 @@
       <link>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering causal relations and equations from data</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/camps-valls-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/camps-valls-et-al-2023/</guid>
       <description></description>
     </item>
     
@@ -67,6 +83,22 @@
     </item>
     
     <item>
+      <title>Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/jakhar-et-al-203/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/jakhar-et-al-203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameterizing Vertical Mixing Coefficients in the Ocean Surface Boundary Layer using Neural Networks</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/sane-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/sane-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reliable coarse-grained turbulent simulations through combined offline learning and neural emulation</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/pedersen-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -75,10 +107,46 @@
     </item>
     
     <item>
+      <title>A new conceptual model of global ocean heat uptake</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023b/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023b/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An observationally-based estimate of global ocean heat uptake closes the time-varying global energy budget since 1880</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/wu-et-al-2023/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/wu-et-al-2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Benchmarking of machine learning ocean subgrid parameterizations in an idealized model</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/ross-et-al-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating freshwater flux amplification with ocean tracers via linear response theory</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/basinski-ferris-zanna-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/basinski-ferris-zanna-2023/</guid>
       <description></description>
     </item>
     
