@@ -13,6 +13,20 @@
     </image>
     
     <item>
+      <title>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data-driven multiscale modeling of subgrid parameterizations in climate models</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/otness-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -30,9 +44,9 @@
     
     <item>
       <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023/</guid>
       <description></description>
     </item>
     
@@ -45,24 +59,18 @@
     </item>
     
     <item>
-      <title>Global Pycnocline depth constrains Ocean Heat Uptake Efficiency</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Implementation and Evaluation of a Machine Learned Mesoscale Eddy Parameterization into a Numerical Ocean Circulation Model</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/zhang-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliable coarse-grained turbulent simulations through combined offline learning and neural emulation</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/pedersen-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/pedersen-et-al-2023/</guid>
       <description></description>
     </item>
     

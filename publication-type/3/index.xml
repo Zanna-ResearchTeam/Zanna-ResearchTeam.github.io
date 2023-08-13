@@ -13,31 +13,7 @@
     </image>
     
     <item>
-      <title>Deep learning of systematic sea ice model errors from data assimilation increments</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</title>
-      <link>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Pycnocline depth constrains Ocean Heat Uptake Efficiency</title>
+      <title>Background Pycnocline depth constrains Future Ocean Heat Uptake Efficiency</title>
       <link>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://Zanna-ResearchTeam.github.io/publication/newsom-et-al-2023/</guid>
@@ -48,6 +24,30 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Deep learning of systematic sea ice model errors from data assimilation increments</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/gregory-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the non-stationarity of coastal sea level probability distributions</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/falasca-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model</title>
+      <link>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Zanna-ResearchTeam.github.io/publication/perezhogin-et-al-2023/</guid>
+      <description></description>
     </item>
     
     <item>
