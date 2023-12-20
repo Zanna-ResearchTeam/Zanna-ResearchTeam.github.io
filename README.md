@@ -44,5 +44,5 @@ Please replace the demo images with your own.
   - https://unsplash.com/photos/AndE50aaHn4
   - https://unsplash.com/photos/OYzbqk2y26c
 - Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
+  - https://unsplash.com/photos/5yENNRbbat4 
   - https://unsplash.com/photos/WNoLnJo7tS8
