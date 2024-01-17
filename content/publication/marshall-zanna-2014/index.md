@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-13-00344.1"
-url_pdf: https://laurezanna.github.io/files/Marshall-Zanna-2014.pdf
+url_pdf: /files/Marshall-Zanna-2014.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JCLI-D-13-00344.1'

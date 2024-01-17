@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-17-0451.1"
-url_pdf: https://laurezanna.github.io/files/OReilly-et-al-2018a.pdf
+url_pdf: /files/OReilly-et-al-2018a.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JCLI-D-17-0451.1'

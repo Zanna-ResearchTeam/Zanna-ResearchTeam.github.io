@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1007/s00382-016-3375-1"
-url_pdf: https://laurezanna.github.io/files/Huddart_et_al_2016.pdf
+url_pdf: /files/Huddart_et_al_2016.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1007/s00382-016-3375-1'

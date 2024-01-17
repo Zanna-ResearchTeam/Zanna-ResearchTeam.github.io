@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-19-0177.1"
-url_pdf: https://laurezanna.github.io/files/Oreilly-et-al-2019a.pdf
+url_pdf: /files/Oreilly-et-al-2019a.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JCLI-D-19-0177.1'

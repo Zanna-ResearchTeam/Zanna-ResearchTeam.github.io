@@ -57,7 +57,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1007/s40641-020-00164-w"
-url_pdf: https://laurezanna.github.io/files/Hewitt-et-al-2020.pdf
+url_pdf: /files/Hewitt-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1007/s40641-020-00164-w'

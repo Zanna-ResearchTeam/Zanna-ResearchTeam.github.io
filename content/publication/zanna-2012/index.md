@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-11-00539.1"
-url_pdf: https://laurezanna.github.io/files/Zanna2012-JClim.pdf
+url_pdf: /files/Zanna2012-JClim.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JCLI-D-11-00539.1'

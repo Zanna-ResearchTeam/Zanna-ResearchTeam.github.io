@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.3389/fmars.2019.00437"
-url_pdf: https://laurezanna.github.io/files/Ponte-et-al-2019.pdf
+url_pdf: /files/Ponte-et-al-2019.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.3389/fmars.2019.00437'

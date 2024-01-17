@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/jgrc.20364"
-url_pdf: https://laurezanna.github.io/files/Wilson-et-al-2013.pdf
+url_pdf: /files/Wilson-et-al-2013.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1002/jgrc.20364'

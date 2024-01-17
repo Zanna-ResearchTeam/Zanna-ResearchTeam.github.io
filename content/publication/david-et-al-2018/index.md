@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1088/1742-5468/aad19a"
-url_pdf: https://laurezanna.github.io/files/David-et-al-2018.pdf
+url_pdf: /files/David-et-al-2018.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1088/1742-5468/aad19a'

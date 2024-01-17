@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1088/1751-8113/46/25/254018"
-url_pdf: https://laurezanna.github.io/files/Palmer-Zanna-2013.pdf
+url_pdf: /files/Palmer-Zanna-2013.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1088/1751-8113/46/25/254018'

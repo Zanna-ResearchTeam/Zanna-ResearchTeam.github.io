@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1029/2019GL082270"
-url_pdf: https://laurezanna.github.io/files/Rodrigues-et-al-2019.pdf
+url_pdf: /files/Rodrigues-et-al-2019.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2019GL082270'

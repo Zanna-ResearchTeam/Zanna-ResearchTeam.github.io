@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/qj.3397"
-url_pdf: https://laurezanna.github.io/files/Zanna_et_al-2018-QJRMS.pdf
+url_pdf: /files/Zanna_et_al-2018-QJRMS.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1002/qj.3397'

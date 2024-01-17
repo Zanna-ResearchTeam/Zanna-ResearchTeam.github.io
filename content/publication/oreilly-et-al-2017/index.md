@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/2016GL067925"
-url_pdf: https://laurezanna.github.io/files/O%27Reilly_etal_2016.pdf
+url_pdf: /files/O%27Reilly_etal_2016.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1002/2016GL067925'
