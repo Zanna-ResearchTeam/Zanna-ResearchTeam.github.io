@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.3390/fluids2030045"
-url_pdf: https://laurezanna.github.io/files/Kjellsson-Zanna-2017.pdf
+url_pdf: /files/Kjellsson-Zanna-2017.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.3390/fluids2030045'

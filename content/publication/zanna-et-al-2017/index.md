@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1016/j.ocemod.2017.01.004"
-url_pdf: https://laurezanna.github.io/files/Zanna-et-al-2017.pdf
+url_pdf: /files/Zanna-et-al-2017.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1016/j.ocemod.2017.01.004'

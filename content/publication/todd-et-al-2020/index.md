@@ -42,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1029/2019MS002027"
-url_pdf: https://laurezanna.github.io/files/Todd-et-al-2020.pdf
+url_pdf: /files/Todd-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2019MS002027'

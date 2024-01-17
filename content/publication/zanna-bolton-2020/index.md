@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1029/2020GL088376"
-url_pdf: https://laurezanna.github.io/files/Zanna-Bolton-2020.pdf
+url_pdf: /files/Zanna-Bolton-2020.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2020GL088376'

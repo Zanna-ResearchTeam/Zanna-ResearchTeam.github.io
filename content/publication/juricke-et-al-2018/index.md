@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/qj.3394"
-url_pdf: https://laurezanna.github.io/files/Juricke-et-al-2017.pdf
+url_pdf: /files/Juricke-et-al-2017.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1002/qj.3394'

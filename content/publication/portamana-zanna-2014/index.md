@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1016/j.ocemod.2014.04.002"
-url_pdf: https://laurezanna.github.io/files/Mana-Zanna-2013.pdf
+url_pdf: /files/Mana-Zanna-2013.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1016/j.ocemod.2014.04.002'

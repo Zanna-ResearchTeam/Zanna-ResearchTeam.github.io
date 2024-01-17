@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-21-0827.1"
-url_pdf: 'files/Newsom_et_al_2023.pdf'
+url_pdf: '/files/Newsom_et_al_2023.pdf'
 url_code: ''
 url_dataset: ''
 #url_DOI: 'https://doi.org/10.1029/2020GL088429'

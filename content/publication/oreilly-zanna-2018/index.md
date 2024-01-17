@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1029/2018GL079077"
-url_pdf: https://laurezanna.github.io/files/oreilly-zanna-2018.pdf
+url_pdf: /files/oreilly-zanna-2018.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2018GL079077'

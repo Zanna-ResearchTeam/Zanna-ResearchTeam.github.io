@@ -66,7 +66,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1016/j.ocemod.2017.11.008"
-url_pdf: https://laurezanna.github.io/files/vanSebille-et-al.pdf
+url_pdf: /files/vanSebille-et-al.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1016/j.ocemod.2017.11.008'

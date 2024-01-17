@@ -40,7 +40,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1038/s41586-020-2591-3"
-url_pdf: https://laurezanna.github.io/files/Frederikse-et-al-2020.pdf
+url_pdf: /files/Frederikse-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1038/s41586-020-2591-3'

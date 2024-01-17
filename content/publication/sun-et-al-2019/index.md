@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JCLI-D-19-0546.1"
-url_pdf: https://laurezanna.github.io/files/Sun-et-al-2020.pdf
+url_pdf: /files/Sun-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JCLI-D-19-0546.1'

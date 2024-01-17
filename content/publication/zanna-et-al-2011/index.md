@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/2010JCLI3610.1"
-url_pdf: files/Zanna-et-al-2011.pdf
+url_pdf: /files/Zanna-et-al-2011.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/2010JCLI3610.1'
