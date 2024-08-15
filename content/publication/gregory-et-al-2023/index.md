@@ -6,8 +6,8 @@ authors:
  - A. Adcroft
  - Y. Zhang
  - admin
-date: '2023-04-04T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2304.03832' 
+date: '2023-09-27T00:00:00Z'
+doi: 'https://doi.org/10.1029/2023MS003757' 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-04T00:00:00Z'
@@ -16,10 +16,10 @@ publishDate: '2023-04-04T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Submitted to JAMES; arXiv.2304.03832*'
+publication: '*JAMES*'
 publication_short: ''
 
 abstract:
@@ -38,7 +38,7 @@ featured: false
 url_pdf: /files/Gregory_et_al_2023.pdf
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.48550/arXiv.2304.03832'
+url_DOI: 'https://doi.org/10.1029/2023MS003757'
 url_project: ''
 url_slides: ''
 url_source: ''
