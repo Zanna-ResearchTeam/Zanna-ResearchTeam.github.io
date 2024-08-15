@@ -3,7 +3,7 @@ title: 'Discovering causal relations and equations from data'
 authors:
  - G. Camps-Valls
  - A. Gerhardus
- - U. nimad
+ - U. Nimad
  - G. Varando
  - G. Martius
  - E. Balaguer-Ballester
@@ -11,8 +11,8 @@ authors:
  - E. Diaz
  - admin
  - J. Runge
-date: '2023-04-04T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2305.13341'
+date: '2023-12-12T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.physrep.2023.10.005'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-04T00:00:00Z'
@@ -21,10 +21,10 @@ publishDate: '2023-04-04T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Submitted, arXiv:2305.13341*'
+publication: '*Physics Reports*'
 publication_short: ''
 
 abstract:

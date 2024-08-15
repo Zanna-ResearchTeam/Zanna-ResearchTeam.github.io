@@ -1,7 +1,7 @@
 ---
 title: 'Reliable coarse-grained turbulent simulations through combined offline learning and neural emulation'
 authors:
-  - C. Pedersen
+  - Chris_Pedersen
   - J. Bruna
   - admin
 date: '2023-04-04T00:00:00Z'

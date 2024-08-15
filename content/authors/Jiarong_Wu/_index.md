@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-  - LEAP
+  - LEAP, Ocean, Coupled Physics
 
 # education:
 #  courses:
@@ -37,9 +37,11 @@ social:
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: https://scholar.google.com/citations?user=HRXHqugAAAAJ&hl=en&oi=ao
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/Pperezhogin
+  - icon: desktop
+    link: https://jiarong-wu.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jiarong-wu
 #  - icon: orcid
 #    icon_pack: fab
 #    link: https://orcid.org/0000-0003-2098-3457

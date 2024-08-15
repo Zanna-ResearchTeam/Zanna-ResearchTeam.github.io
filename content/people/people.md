@@ -20,7 +20,8 @@ content:
     - Postdoctoral Researchers
     - PhD Students
     - Project Management
-    - Alumni
+  #  - Alumni
+    - Laboratory Associates
 design:
   show_interests: true
   show_role: true
