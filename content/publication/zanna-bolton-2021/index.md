@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1002/9781119646181.ch20"
-url_pdf: /files/Zanna-Bolton-2020.pdf
+url_pdf: /files/Zanna-Bolton-2021.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1002/9781119646181.ch20'
