@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Contact (edit or remove options as required)
@@ -56,6 +56,10 @@ design:
   
 ---
 
-Contact us
+### Contact us
+
+#### If you are looking to join our group, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSds6coMGaJVG_d-L0Mo_zmQeRhn1ZxgAUWSVmMqoYorQ8dUBQ/viewform?usp=sf_link) to express your interest. 
+
+
 
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/laurezanna?ref_src=twsrc%5Etfw">Tweets by laurezanna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
