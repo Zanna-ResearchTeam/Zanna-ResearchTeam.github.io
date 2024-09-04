@@ -10,8 +10,10 @@ banner:
   image: '/NYC.jpg'
 ---
 
-[updated 11/2023]
+[updated 09/2024]
 
+### Interested in joining the group? Fill out the form!  
+If you are looking to join our group, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSds6coMGaJVG_d-L0Mo_zmQeRhn1ZxgAUWSVmMqoYorQ8dUBQ/viewform?usp=sf_link) to express your interest. 
 
 - 🧠 Postdoctoral Applications: We are in the process of advertising positions as part of M²LInES, supported by Schmidt Futures. Please check the M²LInES [website](https://m2lines.github.io/) for opportunities. 
 </br>
