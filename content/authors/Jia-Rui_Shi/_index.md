@@ -38,7 +38,7 @@ social:
 #    icon_pack: fab
 #    link: 
   - icon: desktop
-    link: https://directory.whoi.edu/profile/jshi/
+    link: https://jrayshi.github.io
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=c0HvyzcAAAAJ&hl=en
