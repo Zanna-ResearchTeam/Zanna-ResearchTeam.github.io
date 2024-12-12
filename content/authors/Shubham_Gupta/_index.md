@@ -6,18 +6,18 @@ title: Shubham Gupta
 superuser: false
 
 # Role/position
-role: Laboratory Associate
+role: ML Engineer at Rivet.us
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Machine Learning, Deep Learning, Open Source Software
+# interests:
+#  - Machine Learning, Deep Learning, Open Source Software
   
 # education:
 #  courses:
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Laboratory Associates
+    - Alumni
 ---
 

@@ -6,21 +6,21 @@ title: Emily Newsom
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher [she/her]
+role: Senior Research Scientist at Caltech 
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Transient climate change
-  - Ocean heat uptake
-  - Global ocean circulation
-  - Atmosphere-ocean dynamics
+# interests:
+#  - Transient climate change
+#  - Ocean heat uptake
+#  - Global ocean circulation
+#  - Atmosphere-ocean dynamics
 
 # education:
 #  courses:

@@ -6,20 +6,20 @@ title: Elizabeth Yankovsky
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher [she/her]
+role: Assistant Professor at Yale University
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
-  - Model parameterization
-  - Turbulence
-  - Mesoscale & submesoscale dynamics
+# interests:
+#  - Model parameterization
+#  - Turbulence
+#  - Mesoscale & submesoscale dynamics
 
 # education:
 #  courses:

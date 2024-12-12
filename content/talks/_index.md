@@ -17,6 +17,19 @@ Our recorded talks can be found on our [Youtube channel](https://www.youtube.com
 <br>
 
 ## Past talks
+## *2024*
+* **Julia Simpson** - LEAP Research Updates- *Improving Parameterizations of Heat + Momentum Air-Sea Fluxes* September [Recording](https://www.youtube.com/watch?v=NknILybndKo)
+* **Laure Zanna** - OMDP/COMMODORE Workshop - *(Keynote) AI-augmented climate Simulators and Emulators* September [Recording](https://www.youtube.com/watch?t=5&v=KEmvuuyzglQ&feature=youtu.be)
+* **Laure Zanna**, Sara Shamekh, Pierre Gentine - LEAP Professional Development Series - *Navigating the Academic Search Process* [Recording](https://www.youtube.com/watch?v=_1iEl_nOk7A)
+* **Laure Zanna** - Simons foundation Presidential Lecture - *Accelerating Discovery in Climate Physics with Machine Learning* February [Recording](https://www.youtube.com/embed/oiIiWwm7iNM)
+
+## *2023* 
+
+* **Laure Zanna** - Distinguished Seminar Series in Computational Science and Engineering - *A New Generation of Global Climate Models Augmented by AI* October [Recording](https://www.youtube.com/embed/1esiBpicss4)
+* **Pavel Perezhogin** - 28th Annual CESM Workshop - *Machine-Learned parameterizations of mesoscale eddies in MOM6 ocean model: convolutional neural network and symbolic regression* June [Recording](https://www.youtube.com/watch?v=GVaFjoiB4I4&t=10519s)
+* **Fabrizio Falasca** - NOAA-CVP Webinar Series 2023 - *Exploting the nonstationarity of coastal sea level probability distributions* - April [Recording](https://www.youtube.com/watch?v=Tya7d0tfpb0&t=1743s)
+* **Pavel Perezhogin** - NEMO working group on Machine-Learning - *Generative data-driven approaches for stochastic subgrid parameterizations in an idealized ocean model* April [Recording](https://www.youtube.com/watch?v=X3EQg1_-xXU)
+* **Laure Zanna** - UN AI for Good - *Transforming Climate Modeling with AI: hype or Reality?* March [Recording](https://www.youtube.com/watch?v=SRDb7X30DYc)
 
 ## *2022* 
 

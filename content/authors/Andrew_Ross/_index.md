@@ -6,19 +6,19 @@ title: Andrew Ross
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher
+role: Applied Scientist at Arcadia
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio: 
 
-interests:
- - Machine Learning
- - Interpretability
+# interests:
+# - Machine Learning
+# - Interpretability
 # education:
 #  courses:
     

@@ -6,7 +6,7 @@ title: Ziwei Li
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher
+role: Research Scientist at Meta 
 
 # Organizations/Affiliations
 organizations:
@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - M²LInES
-  - Atmospheric Science
-  - Machine Learning
+# interests:
+#  - M²LInES
+#  - Atmospheric Science
+#  - Machine Learning
 
 # education:
 #  courses:
