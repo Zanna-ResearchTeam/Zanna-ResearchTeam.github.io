@@ -6,7 +6,7 @@ title: Abigail Bodner
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher [she/her]
+role: Assistant Professor at MIT 
 
 # Organizations/Affiliations
 organizations:
@@ -16,11 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - GFD
-  - Turbulence
-  - Sea Level
-  - Machine Learning
+# interests:
+#  - GFD
+#  - Turbulence
+#  - Sea Level
+#  - Machine Learning
 
 # education:
 #  courses:

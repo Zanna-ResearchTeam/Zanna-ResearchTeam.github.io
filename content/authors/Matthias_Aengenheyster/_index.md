@@ -6,18 +6,18 @@ title: Matthias Aengenheyster
 superuser: false
 
 # Role/position
-role: Former PhD Student
+role: Scientist at ECMWF
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Oceanography
+# interests:
+#  - Oceanography
 
 # education:
 #  courses:

@@ -6,20 +6,20 @@ title: Nora Loose
 superuser: false
 
 # Role/position
-role: Former Postdoctoral researcher 
+role: Scientist at [C]Worthy
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+# organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-  - Eddy parameterizations
-  - Modeling
-  - Machine Learning
+# interests:
+#  - Eddy parameterizations
+#  - Modeling
+# - Machine Learning
 
 # education:
 #  courses:
