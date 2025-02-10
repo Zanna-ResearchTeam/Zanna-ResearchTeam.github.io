@@ -10,7 +10,7 @@ banner:
   image: '/NYC.jpg'
 ---
 
-[updated 09/2024]
+[updated 02/2025] Note we do not have any postdoc position available at this time. 
 
 ### Interested in joining the group? Fill out the form!  
 If you are looking to join our group, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSds6coMGaJVG_d-L0Mo_zmQeRhn1ZxgAUWSVmMqoYorQ8dUBQ/viewform?usp=sf_link) to express your interest. 
