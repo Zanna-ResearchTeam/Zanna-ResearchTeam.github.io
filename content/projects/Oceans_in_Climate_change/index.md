@@ -5,6 +5,9 @@ image:
   focal_point: 'top'
 ---
 
+🚧 **We are in the process of adding recent work in these areas, please check back again soon for more information or check our [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=fr&oi=ao) page for recent publications** 🚧
+
+
 The oceans are a major sink of heat and carbon, able to delay climate change. The role of ocean heat uptake remains central in quantifying both the magnitude and timescale of the local and global climate response to forcing.
 
 One main focus of our work is address fundamental questions such as:

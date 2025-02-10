@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 ---
 
+🚧 **We are in the process of adding recent work in these areas, please check back again soon for more information or check our [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=fr&oi=ao) page for recent publications** 🚧
+
+
+
 As anthropogenic emissions increase, the temperature of the planet increases. As a result, ice melt and thermal expansion of the oceans leads to sea level rise. Regionally, sea level changes due to local forcing from the atmosphere, changes in ocean circulations, and ocean bathymetry. We are interested in several aspects of sea level dynamics such as:
 
 - How predictable is sea level dynamics on seasonal to decadal timescales? (e.g., [Fraser et al, 2019](/publication/fraser-et-al-2019/), [Zanna et al. 2018](/publication/zanna-et-al-2018/))
