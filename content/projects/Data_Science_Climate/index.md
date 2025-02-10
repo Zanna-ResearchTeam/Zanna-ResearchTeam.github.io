@@ -5,6 +5,9 @@ image:
   focal_point: 'top'
 ---
 
+🚧 **We are in the process of adding recent work in these areas, please check back again soon for more information or check our [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=fr&oi=ao) page for recent publications** 🚧
+
+
 We work on data-driven methods to undertand and predict climate. The tools we use range from probabilistic models informed by data to machine learning algorithms (e.g., neural networks).
 
 Some of our data-driven work include:
