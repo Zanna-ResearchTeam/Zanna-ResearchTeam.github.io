@@ -6,7 +6,7 @@ title: Laure Zanna
 superuser: true
 
 # Role/position
-role: Professor of Mathematics & Atmosphere/Ocean Science [She/Her]
+role: Joseph B. Keller & Herbert B. Keller Professor of Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -43,9 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'laure.zanna@nyu.edu'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/laurezanna
+    link: https://www.linkedin.com/in/laure-zanna-b8810b26a/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=xWZmhjsAAAAJ&view_op=list_works&sortby=pubdate
@@ -77,4 +77,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Laure Zanna is a Professor in Mathematics & Atmosphere/Ocean Science at the Courant Institute, New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She is the lead principal investigator of the NSF-NOAA Climate Process Team on Ocean Transport and Eddy Energy, and M²LInES – an international effort to improve climate models with scientific machine learning. She currently serves as an editor for the Journal of Climate, a member on the International CLIVAR Ocean Model Development Panel, and on the CESM Advisory Board.
+Professor Zanna is a climate physicist in the Department of Mathematics at the Courant Institute, and the Center for Data Science, NYU. She holds the Joseph B. Keller and Herbert B. Keller Professorship in Applied Mathematics. Her research focuses on understanding, simulating and predicting the role of the ocean in climate on local and global scales. She combines theory, numerical simulations, statistics, and machine learning to tackle a wide range of problems in fluid dynamics and climate, including turbulence, multiscale modeling, ocean heat and carbon uptake, and sea level rise. Since 2020, she is leading M²LInES, an international collaboration sponsored by Schmidt Sciences dedicated to improving climate models using scientific machine learning. In 2020, Prof Zanna received the Nicholas P. Fofonoff Award from the American Meteorological Society “for exceptional creativity in the development and application of new concepts in ocean and climate dynamics”, and was the 2022 WHOI Geophysical Fluid Dynamics principal lecturer.
