@@ -13,7 +13,7 @@ title: Laure Zanna
 superuser: true
 
 # Role/position
-role: 'Joseph B. Keller \& Herbert B. Keller Professor of Applied Mathematics'
+role: 'Joseph B. Keller and Herbert B. Keller Professor of Applied Mathematics'
 
 # Organizations/Affiliations
 organizations:
