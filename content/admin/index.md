@@ -13,7 +13,7 @@ title: Laure Zanna
 superuser: true
 
 # Role/position
-role: 'Professor of Mathematics & Atmosphere/Ocean Science [She/Her]'
+role: 'Joseph B. Keller \& Herbert B. Keller Professor of Applied Mathematics'
 
 # Organizations/Affiliations
 organizations:
