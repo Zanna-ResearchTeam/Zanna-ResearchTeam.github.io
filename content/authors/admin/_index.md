@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Climate Dynamics, 2009
+    - course: PhD in Climate Dynamics
       institution: Harvard University
       year: 2009
     - course: MSc in Environmental Sciences
