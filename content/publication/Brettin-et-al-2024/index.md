@@ -7,7 +7,7 @@ authors:
 - EA Barnes
 
 
-date: '2024-10-04T00:00:00Z'
+date: '2025-02-14T00:00:00Z'
 doi: 'https://doi.org/10.1029/2024GL112835'
 
 # Schedule page publish date (NOT publication's date).
