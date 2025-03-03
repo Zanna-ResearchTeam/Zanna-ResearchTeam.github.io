@@ -8,19 +8,19 @@ authors:
 
 
 date: '2024-10-04T00:00:00Z'
-doi: 'https://doi.org/10.22541/essoar.172801453.37313793/v1'
+doi: 'https://doi.org/10.1029/2024GL112835'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-04T00:00:00Z'
+publishDate: '2025-02-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ESS Open Archive*'
+publication: '*GRL*'
 publication_short: ''
 
 
@@ -32,11 +32,11 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.22541/essoar.172801453.37313793/v1"
-url_pdf: '/files/Brettin-et-al-2024.pdf'
+#   url: "https://doi.org/10.1029/2024GL112835"
+url_pdf: '/files/Brettin-et-al-2025.pdf'
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.22541/essoar.172801453.37313793/v1'
+url_DOI: 'https://doi.org/10.1029/2024GL112835'
 url_project: ''
 url_slides: ''
 url_source: ''
