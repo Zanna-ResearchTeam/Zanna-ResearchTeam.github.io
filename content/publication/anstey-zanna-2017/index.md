@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1016/j.ocemod.2017.02.004"
-url_pdf: /files/Anstey_Zanna_2017.pdf/
+url_pdf: /files/Anstey_Zanna_2017.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1016/j.ocemod.2017.02.004'
