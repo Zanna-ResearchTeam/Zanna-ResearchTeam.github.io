@@ -19,13 +19,11 @@ design:
   css_style:
   css_class:
 
-# Our team works on a wide range of topics including global and regional sea level rise, ocean decadal predictions, the representation of ocean turbulence in climate models, and uncertainty quantification for seasonal predictions. Recently, we have been particularly interested in the role of the ocean dynamics in shaping patterns of ocean heat and carbon storage and sea level under climate change, and in the development of physics-aware machine learning models to deepen our understanding of climate processes and their representation in climate models.
-# Our group strives to create a productive, safe, positive and inclusive environment. We value and support the participation of every member of our group and want to ensure everyone has an enjoyable and fulfilling experience, both professionally and personally.
 
 ---
 
 <br>
 
-Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system in order to improve climate change projections. 
+Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system. 
 
 
