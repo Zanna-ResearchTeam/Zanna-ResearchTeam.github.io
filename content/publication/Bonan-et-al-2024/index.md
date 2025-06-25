@@ -1,5 +1,5 @@
 ---
-title: 'Constraints imply limited future weakening of Atlantic meridional overturning circulation'
+title: 'Observational constraints imply limited future Atlantic meridional overturning circulation weakening'
 authors:
  - D. Bonan
  - A. Thompson
@@ -7,20 +7,20 @@ authors:
  - admin
  - K. Armour
  - S. Sun
-date: '2024-06-10T00:00:00Z'
-doi: 'https://doi.org/10.21203/rs.3.rs-4456168/v1'
+date: '2025-05-29T00:00:00Z'
+doi: 'https://doi.org/10.1038/s41561-025-01709-0'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-01T00:00:00Z'
+publishDate: '2025-05-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Under review in Nature Portfolio*'
+publication: '*Nature Geosciences*'
 publication_short: ''
 
 
@@ -33,11 +33,11 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.1002/essoar.10511742.2"
-url_pdf: /files/Bonan-et-al-2024.pdf 
+#   url: "https://doi.org/10.1038/s41561-025-01709-0"
+url_pdf: /files/Bonan-et-al-2025.pdf 
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.5194/esd-2023-14'
+url_DOI: 'https://doi.org/10.1038/s41561-025-01709-0'
 url_project: ''
 url_slides: ''
 url_source: ''
