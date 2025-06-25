@@ -22,7 +22,7 @@ publishDate: '2025-04-08T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: '**'
+publication: '*Arxiv*'
 publication_short: ''
 
 

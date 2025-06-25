@@ -21,7 +21,7 @@ publishDate: '2025-03-06T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-# publication: '**'
+publication: '*Submitted to GRL*'
 publication_short: ''
 
 
