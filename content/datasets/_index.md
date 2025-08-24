@@ -1,5 +1,5 @@
 ---
-title: Datasets
+title: Datasets and Codes
 
 # Listing view
 view: citation
@@ -11,6 +11,8 @@ banner:
 ---
 
 ### M²LInES related datasets
+
+- Samudra: AI Ocean Emulator via [GitHub](https://github.com/m2lines/Samudra) or [Hugging Face](https://huggingface.co/M2LInES/Samudra).
 
 - Code for Pyqg Parameterization benchmarks from Ross et al. 2022 [Pyqg_parameterization_benchmarks](Pyqg_parameterization_benchmarks)
 
