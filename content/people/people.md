@@ -21,7 +21,7 @@ content:
     - PhD Students
     - Project Management
     - Laboratory Associates
-    - Alumni
+    - Alumni (+ where they went)
 design:
   show_interests: true
   show_role: true
