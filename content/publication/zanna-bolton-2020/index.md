@@ -4,7 +4,7 @@ title: 'Data-Driven Equation Discovery of Ocean Mesoscale Closures'
 authors:
 
 - admin
-- T. Bolton
+- Tom Bolton
 
 date: '2020-08-06T00:00:00Z'
 doi: 'https://doi.org/10.1029/2020GL088376'

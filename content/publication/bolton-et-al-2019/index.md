@@ -1,7 +1,7 @@
 ---
-title: 'Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization'
+title: 'Regional and Temporal Variability of Lateral Mixing in the North Atlantic'
 authors:
- - T. Bolton
+ - Tom Bolton
  - R. Abernathey
  - admin
 
