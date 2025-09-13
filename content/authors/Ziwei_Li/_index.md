@@ -6,12 +6,12 @@ title: Ziwei Li
 superuser: false
 
 # Role/position
-role: Research Scientist at Meta 
+role: ML Research Scientist at Meta 
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+#organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
