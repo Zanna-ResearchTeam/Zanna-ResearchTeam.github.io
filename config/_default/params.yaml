@@ -10,7 +10,7 @@ appearance:
   theme_day: ocean
   theme_night: minimal
   font: Minimal
-  font_size: M
+  font_size: S
 
 # SEO
 
@@ -111,3 +111,11 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+
+  # Body font
+  body : Roboto
+  # Heading font
+  heading : Lora
+  # Monospace font
+  monospace : Fira Code

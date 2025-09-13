@@ -10,6 +10,7 @@ banner:
   image: '/pavel_data2.png'
 ---
 
+The group GitHub Repos can be found [here](https://github.com/Zanna-ResearchTeam),
 ### M²LInES related datasets
 
 - Samudra: AI Ocean Emulator via [GitHub](https://github.com/m2lines/Samudra) or [Hugging Face](https://huggingface.co/M2LInES/Samudra).

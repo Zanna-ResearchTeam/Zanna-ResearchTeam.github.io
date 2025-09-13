@@ -6,19 +6,19 @@ title: Chris Pedersen
 superuser: false
 
 # Role/position
-role: Postdoctoral researcher
+role: AI Researcher Startup 
 
 # Organizations/Affiliations
-organizations:
-  - name: New York University
-    url: ''
+#organizations:
+#  - name: New York University
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: 
 
-interests:
- - Deep Learning
- - Simulations
+#interests:
+# - Deep Learning
+# - Simulations
 # education:
 #  courses:
     
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Postdoctoral Researchers 
+  - Alumni 
 ---
 

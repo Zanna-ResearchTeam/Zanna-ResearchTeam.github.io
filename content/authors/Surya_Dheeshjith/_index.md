@@ -6,7 +6,7 @@ title: Surya Dheeshjith
 superuser: false
 
 # Role/position
-role: Laboratory Associate
+role: AI Scientist, Capital One
 
 # Organizations/Affiliations
 organizations:
@@ -14,10 +14,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Machine Learning, Deep Learning, Data Analysis
+#interests:
+#  - Machine Learning, Deep Learning, Data Analysis
   
 # education:
 #  courses:
@@ -57,6 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-    - Laboratory Associates
+    - Alumni
 ---
 
