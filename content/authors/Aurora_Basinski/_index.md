@@ -6,7 +6,7 @@ title: Aurora Basinski
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher at Scripps, UCSD 
+role: AI Schmidt Science Postdoctoral Researcher at Scripps, UCSD 
 
 # Organizations/Affiliations
 # organizations:

@@ -7,8 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Zanna  
-  Research Group
+  Zanna Research Group
 hero_media: Abigail_pic.jpg
 # hero_media: guadeloupe_2.png
 
@@ -17,13 +16,14 @@ design:
   columns: '1'
   # Add custom styles
   css_style:
-  css_class:
+  css_class: Lora
 
 
 ---
 
 <br>
+Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system; we develop theory, models and algorithms to tackle some key problems in ocean and climate dynamics.  
 
-Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system. 
+</br>
 
 
