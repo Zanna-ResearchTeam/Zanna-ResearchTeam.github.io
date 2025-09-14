@@ -2,7 +2,7 @@
 title: 'Assessing External and Internal Sources of Atlantic Multidecadal Variability Using Models, Proxy Data, and Early Instrumental Indices'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - admin 
 - T. Woollings
 

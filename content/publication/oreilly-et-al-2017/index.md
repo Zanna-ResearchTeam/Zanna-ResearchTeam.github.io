@@ -2,7 +2,7 @@
 title: 'The signature of low-frequency oceanic forcing in the Atlantic Multidecadal Oscillation'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - M. Huber
 - T. Woollings
 - admin 

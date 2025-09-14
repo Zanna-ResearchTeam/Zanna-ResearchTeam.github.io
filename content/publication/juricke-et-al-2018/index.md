@@ -2,7 +2,7 @@
 title: 'Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty'
 
 authors:
-- S. Juricke
+- Stephan_Juricke
 - D. MacLeod
 - A. Weisheimer
 - admin 

@@ -1,7 +1,7 @@
 ---
 title: 'Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders'
 authors:
- - Andrew Brettin
+ - Andrew_Brettin
  - admin
  - Elizabeth A. Barnes
 date: '2025-02-14T00:00:00Z'

@@ -2,7 +2,7 @@
 title: 'The Signature of Oceanic Processes in Decadal Extratropical SST Anomalies'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - admin 
 
 date: '2018-07-16T00:00:00Z'

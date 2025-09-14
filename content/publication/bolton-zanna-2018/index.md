@@ -1,7 +1,7 @@
 ---
 title: 'Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization'
 authors:
- - Tom Bolton
+ - Tom_Bolton
  - admin
 
 date: '2019-01-01T00:00:00Z'

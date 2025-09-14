@@ -2,7 +2,7 @@
 title: 'The Dynamical Influence of the Atlantic Multidecadal Oscillation on Continental Climate'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - T. Woollings
 - admin 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Regional and Temporal Variability of Lateral Mixing in the North Atlantic'
 authors:
- - Tom Bolton
+ - Tom_Bolton
  - R. Abernathey
  - admin
 

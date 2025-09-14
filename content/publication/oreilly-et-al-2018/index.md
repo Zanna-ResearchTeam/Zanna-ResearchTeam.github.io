@@ -2,7 +2,7 @@
 title: 'The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - T. Woollings
 - admin 
 - A. Weisheimer

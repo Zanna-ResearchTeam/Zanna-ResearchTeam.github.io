@@ -1,7 +1,7 @@
 ---
 title: 'Southern Ocean carbon-wind stress feedback'
 authors:
- - B. Bronselaer 
+ - Ben_Bronselaer 
  - admin
  - D. Munday
  - J. Lowe
