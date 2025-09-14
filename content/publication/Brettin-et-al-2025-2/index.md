@@ -1,7 +1,7 @@
 ---
 title: 'Uncertainty-permitting machine learning reveals sources of dynamic sea level predictability across daily-to-seasonal timescales'
 authors:
- - Andrew Brettin
+ - Andrew_Brettin
  - admin
  - Elizabeth A. Barnes
 date: '2025-02-16T00:00:00Z'

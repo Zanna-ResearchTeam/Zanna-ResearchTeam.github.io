@@ -1,7 +1,7 @@
 ---
 title: 'The influence of Southern Ocean winds on the North Atlantic carbon sink'
 authors:
- - B. Bronselaer 
+ - Ben_Bronselaer 
  - admin
  - D. Munday
  - J. Lowe

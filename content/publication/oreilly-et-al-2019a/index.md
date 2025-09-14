@@ -2,7 +2,7 @@
 title: 'An interdecadal shift of the extratropical ENSO teleconnection during boreal summer'
 authors:
 
-- C. O'Reilly
+- Chris_OReilly
 - T. Woollings
 - admin 
 - A. Weisheimer

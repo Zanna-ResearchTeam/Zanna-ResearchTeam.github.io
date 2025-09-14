@@ -1,8 +1,8 @@
 ---
 title: 'Data-Driven Probabilistic Air-Sea Flux Parameterization'
 authors:
- - Jiarong Wu
- - Pavel Perezhogin
+ - Jiarong_Wu
+ - Pavel_Perezhogin
  - David John Gagne
  - Brandon Reichl
  - Aneesh C Subramanian

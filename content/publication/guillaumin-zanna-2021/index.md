@@ -2,7 +2,7 @@
 title: 'Stochastic-Deep Learning Parameterization of Ocean Momentum Forcing'
 
 authors:
-- A. Guillaumin
+- Arthur_Guillaumin
 - admin 
 
 

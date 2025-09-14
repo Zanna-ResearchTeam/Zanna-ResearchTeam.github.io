@@ -1,7 +1,8 @@
 ---
 title: 'Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence'
 authors:
- - Tomos David
+
+ - Tomos_David
  - admin
  - D.P. Marshall
 

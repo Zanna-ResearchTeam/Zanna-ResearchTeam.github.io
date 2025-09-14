@@ -2,7 +2,7 @@
 title: 'Stochastic Subgrid-Scale Ocean Mixing: Impacts on Low-Frequency Variability'
 
 authors:
-- S. Juricke
+- Stephan_Juricke
 - T. N. Palmer
 - admin 
 

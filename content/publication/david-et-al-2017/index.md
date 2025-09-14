@@ -1,7 +1,8 @@
 ---
 title: 'The statistical nature of turbulent barotropic ocean jets'
 authors:
- - Tomos David
+
+ - Tomos_David
  - D.P. Marshall
  - admin
 

@@ -2,8 +2,9 @@
 title: 'Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models'
 
 authors:
+
 - admin
-- Tom Bolton
+- Tom_Bolton
 
 date: '2021-08-20T00:00:00Z'
 doi: 'https://doi.org/10.1002/9781119646181.ch20'
