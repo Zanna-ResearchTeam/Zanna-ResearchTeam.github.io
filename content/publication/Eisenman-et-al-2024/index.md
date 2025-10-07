@@ -24,7 +24,7 @@ publication_types: ['3']
 publication: '*Submitted to GRL*'
 publication_short: ''
 
-
+abstract: "Regional patterns of sea level rise are affected by a range of factors including glacial melting, which has occurred in recent decades and is projected to increase in the future, perhaps dramatically. Previous modeling studies have typically included fluxes from melting glacial ice only as a surface forcing of the ocean or as an offline addition to the sea surface height fields produced by climate models. However, observational estimates suggest that the majority of the meltwater from the Antarctic Ice Sheet actually enters the ocean at depth through ice shelf basal melt. Here we use simulations with an ocean general circulation model in an idealized configuration. The results show that the simulated global sea level rise pattern is sensitive to the depth at which Antarctic meltwater enters the ocean. Further analysis suggests that the response is dictated primarily by the steric response to the depth of the meltwater flux."
 summary: 
 
 tags:

@@ -2,8 +2,7 @@
 title: 'Towards Comprehensive Observing and Modeling Systems for Monitoring and Predicting Regional to Coastal Sea Level'
 authors:
 
-- R.Ponte 
-- et al. 
+- R.Ponte et al 
 
 date: '2019-07-25T00:00:00Z'
 doi: 'https://doi.org/10.3389/fmars.2019.00437'

@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1175/JPO-D-19-0042.1"
-url_pdf: /files/Bolton-Zanna-2019.pdf
+url_pdf: /files/Bolton-et-al-2019.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1175/JPO-D-19-0042.1'

@@ -20,7 +20,7 @@ publication_types: ['3']
 publication: '*Submitted GRL*'
 publication_short: ''
 
-abstract:
+abstract: "Data-driven methods have become popular to parameterize the effects of mesoscale eddies in ocean models. However, they perform poorly in generalization tasks and may require retuning if the grid resolution or ocean configuration changes. We address the generalization problem by enforcing physics constraints on a neural network parameterization of mesoscale eddy fluxes. We found that the local scaling of input and output features helps to generalize to unseen grid resolutions and depths offline in the global ocean. The scaling is based on dimensional analysis and incorporates grid spacing as a length scale. We formulate our findings as a general algorithm that can be used to enforce data-driven parameterizations with dimensional scaling. The new parameterization improves the representation of kinetic and potential energy in online simulations with idealized and global ocean models. Comparison to baseline parameterizations and impact on global ocean biases are discussed."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

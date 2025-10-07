@@ -22,7 +22,7 @@ publication_types: ['2']
 publication: '*Geophysical Research Letters*'
 publication_short: ''
 
-abstract: '' 
+abstract: "The Ocean Heat Uptake Efficiency (OHUE) quantifies the ocean's ability to mitigate surface warming through deep heat sequestration. Despite its importance, the main controls on OHUE, and on its two-fold spread across contemporary climate models, remain unclear. We argue that OHUE is primarily controlled by mid-latitude ventilation strength in the background climate, itself related to pycnocline depth and stratification. This hypothesis is supported by a strong correlation between mid-latitude (30–60°) OHUE and the near-global average (60°S–60°N) pycnocline depth in CMIP5 and CMIP6 AOGCMs under RCP85/SSP585, and in a parameter perturbation ensemble of ocean GCM (MITgcm) experiments. This correlation explains about 70% of the CMIP5-6 spread in global OHUE. The relationship provides a pathway toward observationally constraining OHUE, and thus reducing uncertainty in projections of future global climate change and sea level rise." 
 
 summary: 
 

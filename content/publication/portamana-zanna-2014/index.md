@@ -2,7 +2,7 @@
 title: 'Toward a stochastic parameterization of ocean mesoscale eddies'
 authors:
 
-- PGL Porta Mana
+- Luca_PortaMana
 - admin
 
 date: '2014-07-25T00:00:00Z'

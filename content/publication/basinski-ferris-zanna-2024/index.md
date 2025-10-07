@@ -19,7 +19,7 @@ publication_types: ['2']
 publication: '*ESD*'
 publication_short: ''
 
-
+abstract: "Accurate estimation of changes in the global hydrological cycle over the historical record is important for model evaluation and understanding future trends. Freshwater flux trends cannot be accurately measured directly, so quantification of change often relies on ocean salinity trends. However, anthropogenic forcing has also induced ocean transport change, which imprints on salinity. We find that this ocean transport affects the surface salinity of the saltiest regions (the subtropics) while having little impact on the surface salinity in other parts of the globe. We present a method based on linear response theory which accounts for the regional impact of ocean circulation changes while estimating freshwater fluxes from ocean tracers. Testing on data from the Community Earth System Model large ensemble, we find that our method can recover the true amplification of freshwater fluxes, given thresholded statistical significance values for salinity trends. We apply the method to observations and conclude that from 1975–2019, the hydrological cycle has amplified by 5.04±1.27 % per degree Celsius of surface warming."
 # Summary. An optional shortened abstract.
 
 tags:

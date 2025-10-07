@@ -19,7 +19,7 @@ authors:
 - A Gorbunova
 - W Gregory
 - Arthur_Guillaumin
-- S Gupta
+- Shubham_Gupta
 - M Holland
 - JE Johnsson
 - J Le Sommer
@@ -54,7 +54,6 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: '*JOSE*'
 publication_short: ''
-
 
 summary: 
 

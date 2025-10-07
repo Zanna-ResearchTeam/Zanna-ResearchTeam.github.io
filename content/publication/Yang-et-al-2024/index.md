@@ -26,7 +26,7 @@ publication_types: ['3']
 publication: '*arXiv:2410.23272*'
 publication_short: ''
 
-
+abstract: "Probabilistic prediction of sequences from images and other high-dimensional data is a key challenge, particularly in risk-sensitive applications. In these settings, it is often desirable to quantify the uncertainty associated with the prediction (instead of just determining the most likely sequence, as in language modeling). In this paper, we propose a Monte Carlo framework to estimate probabilities and confidence intervals associated with the distribution of a discrete sequence. Our framework uses a Monte Carlo simulator, implemented as an autoregressively trained neural network, to sample sequences conditioned on an image input. We then use these samples to estimate the probabilities and confidence intervals. Experiments on synthetic and real data show that the framework produces accurate discriminative predictions, but can suffer from miscalibration. In order to address this shortcoming, we propose a time-dependent regularization method, which is shown to produce calibrated predictions."
 summary: 
 
 tags:

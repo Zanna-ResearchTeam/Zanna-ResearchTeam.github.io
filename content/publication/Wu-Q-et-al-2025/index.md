@@ -23,7 +23,7 @@ publication_short: ''
 
 
 # Summary. An optional shortened abstract.
-summary: Accurately quantifying air-sea fluxes is important for understanding air-sea interactions and improving coupled weather and climate systems. This study introduces a probabilistic framework to represent the highly variable nature of air-sea fluxes, which is missing in deterministic bulk algorithms. Assuming Gaussian distributions conditioned on the input variables, we use artificial neural networks and eddy-covariance measurement data to estimate the mean and variance by minimizing negative log-likelihood loss. The trained neural networks provide alternative mean flux estimates to existing bulk algorithms, and quantify the uncertainty around the mean estimates. Stochastic parameterization of air-sea turbulent fluxes can be constructed by sampling from the predicted distributions. Tests in a single-column forced upper-ocean model suggest that changes in flux algorithms influence sea surface temperature and mixed layer depth seasonally. The ensemble spread in stochastic runs is most pronounced during spring restratification.
+abstract: Accurately quantifying air-sea fluxes is important for understanding air-sea interactions and improving coupled weather and climate systems. This study introduces a probabilistic framework to represent the highly variable nature of air-sea fluxes, which is missing in deterministic bulk algorithms. Assuming Gaussian distributions conditioned on the input variables, we use artificial neural networks and eddy-covariance measurement data to estimate the mean and variance by minimizing negative log-likelihood loss. The trained neural networks provide alternative mean flux estimates to existing bulk algorithms, and quantify the uncertainty around the mean estimates. Stochastic parameterization of air-sea turbulent fluxes can be constructed by sampling from the predicted distributions. Tests in a single-column forced upper-ocean model suggest that changes in flux algorithms influence sea surface temperature and mixed layer depth seasonally. The ensemble spread in stochastic runs is most pronounced during spring restratification.
 tags:
   - Source Themes
 featured: false
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1073/pnas.2408839122"
-# url_pdf: /files/Wu-Q-et-al-2025.pdf
+url_pdf: /files/wu-et-al-2025-time.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1073/pnas.2408839122'

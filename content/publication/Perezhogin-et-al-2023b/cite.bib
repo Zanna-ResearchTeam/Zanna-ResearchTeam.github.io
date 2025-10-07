@@ -1,6 +1,16 @@
-@article{perezhogin2023implementation,
-  title={Implementation of a data-driven equation-discovery mesoscale parameterization into an ocean model},
-  author={Perezhogin, Pavel and Zhang, Cheng and Adcroft, Alistair and Fernandez-Granda, Carlos and Zanna, Laure},
-  journal={arXiv preprint arXiv:2311.02517},
-  year={2023}
+@article{https://doi.org/10.1029/2023MS004104,
+author = {Perezhogin, Pavel and Zhang, Cheng and Adcroft, Alistair and Fernandez-Granda, Carlos and Zanna, Laure},
+title = {A Stable Implementation of a Data-Driven Scale-Aware Mesoscale Parameterization},
+journal = {Journal of Advances in Modeling Earth Systems},
+volume = {16},
+number = {10},
+pages = {e2023MS004104},
+keywords = {mesoscale eddies, parameterization, backscatter, data-driven, ocean},
+doi = {https://doi.org/10.1029/2023MS004104},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023MS004104},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023MS004104},
+note = {e2023MS004104 2023MS004104},
+abstract = {Abstract Ocean mesoscale eddies are often poorly represented in climate models, and therefore, their effects on the large scale circulation must be parameterized. Traditional parameterizations, which represent the bulk effect of the unresolved eddies, can be improved with new subgrid models learned directly from data. Zanna and Bolton (2020), https://doi.org/10.1029/2020gl088376 (ZB20) applied an equation-discovery algorithm to reveal an interpretable expression parameterizing the subgrid momentum fluxes by mesoscale eddies through the components of the velocity-gradient tensor. In this work, we implement the ZB20 parameterization into the primitive-equation GFDL MOM6 ocean model and test it in two idealized configurations with significantly different dynamical regimes and topography. The original parameterization was found to generate excessive numerical noise near the grid scale. We propose two filtering approaches to avoid the numerical issues and additionally enhance the strength of large-scale energy backscatter. The filtered ZB20 parameterizations led to improved climatological mean state and energy distributions, compared to the current state-of-the-art energy backscatter parameterizations. The filtered ZB20 parameterizations are scale-aware and, consequently, can be used with a single value of the non-dimensional scaling coefficient for a range of resolutions. The successful application of the filtered ZB20 parameterizations to parameterize mesoscale eddies in two idealized configurations offers a promising opportunity to reduce long-standing biases in global ocean simulations in future studies.},
+year = {2024}
 }
+

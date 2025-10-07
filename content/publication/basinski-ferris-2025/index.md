@@ -22,6 +22,23 @@ publication_short: ''
 
 
 # Summary. An optional shortened abstract.
+abstract: 'Mass loss from the Antarctic ice sheet is projected to continue over the coming
+century. The resultant sea level change will have a regional pattern that evolves over time as the
+ocean adjusts. Accurate estimation of this evolution is crucial for local communities. Current
+state-of-the-art climate models typically do not couple ice sheets to the atmosphere-ocean system,
+and the impact of ice sheet melt has often been studied by injecting meltwater at the model ocean
+surface. However, observational evidence suggests that most Antarctic meltwater enters the ocean
+at depth through ice shelf basal melt. A previous study has demonstrated that the regional sea level
+pattern at a given time depends on meltwater injection depth. Here, we introduce a 2.5-layer model
+to investigate this dependence and develop a theory for the associated adjustment mechanisms. We
+find mechanisms consistent with previous literature on the ocean adjustment to changes in forcing,
+whereby a slower Rossby wave response off the eastern boundary follows a fast response from the
+western boundary current and Kelvin waves. We demonstrate that faster baroclinic Rossby waves
+near the surface than at depth explains the injection depth dependence of the adjustment in the
+2.5-layer model. The identified Rossby wave mechanism may contribute to the dependence of the
+ocean’s transient adjustment on meltwater injection depth in more complex models. This work
+highlights processes that could cause errors in the projection of the time-varying pattern of sea
+level rise using surface meltwater input to represent Antarctica’s freshwater forcing.'
 
 tags:
   - Source Themes

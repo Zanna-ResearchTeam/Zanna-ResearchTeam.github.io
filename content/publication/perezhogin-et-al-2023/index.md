@@ -20,7 +20,7 @@ publication_types: ['2']
 publication: '*JAMES*'
 publication_short: ''
 
-abstract:
+abstract: "Subgrid parameterizations of mesoscale eddies continue to be in demand for climate simulations. These subgrid parameterizations can be powerfully designed using physics and/or data-driven methods, with uncertainty quantification. For example, Guillaumin and Zanna (2021, https://doi.org/10.1029/2021ms002534) proposed a Machine Learning (ML) model that predicts subgrid forcing and its local uncertainty. The major assumption and potential drawback of this model is the statistical independence of stochastic residuals between grid points. Here, we aim to improve the simulation of stochastic forcing with generative models of ML, such as Generative adversarial network (GAN) and Variational autoencoder (VAE). Generative models learn the distribution of subgrid forcing conditioned on the resolved flow directly from data and they can produce new samples from this distribution. Generative models can potentially capture not only the spatial correlation but any statistically significant property of subgrid forcing. We test the proposed stochastic parameterizations offline and online in an idealized ocean model. We show that generative models are able to predict subgrid forcing and its uncertainty with spatially correlated stochastic forcing. Online simulations for a range of resolutions demonstrated that generative models are superior to the baseline ML model at the coarsest resolution."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

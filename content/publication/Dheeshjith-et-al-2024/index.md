@@ -24,9 +24,8 @@ publication_types: ['3']
 # publication: '**'
 publication_short: ''
 
-
+abstract: "With the success of machine learning (ML) applied to climate reaching further every day, emulators have begun to show promise not only for weather but for multi-year time scales in the atmosphere. Similar work for the ocean remains nascent, with state-of-the-art limited to models running for shorter time scales or only for regions of the globe. In this work, we demonstrate high-skill global emulation for surface ocean fields over 5-8 years of model rollout, accurately representing modes of variability for two different ML architectures (ConvNext and Transformers). In addition, we address the outstanding question of generalization, an essential consideration if the end-use of emulation is to model warming scenarios outside of the model training data. We show that 1) generalization is not an intrinsic feature of a data-driven emulator, 2) fine-tuning the emulator on only small amounts of additional data from a distribution similar to the test set can enable the emulator to perform well in a warmed climate, and 3) the forced emulators are robust to noise in the forcing."
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes

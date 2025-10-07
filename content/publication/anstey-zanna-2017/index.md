@@ -5,7 +5,7 @@ authors:
   - admin
 
 date: '2016-05-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.ocemod.2017.02.004'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2016-05-01T00:00:00Z'
@@ -22,7 +22,7 @@ publication_short: ''
 
 abstract: Ocean mesoscale eddies strongly affect the strength and variability of large-scale ocean jets such as the Gulf Stream and Kuroshio Extension. Their spatial scales are too small to be fully resolved in many current climate models and hence their effects on the large-scale circulation need to be parametrized. Here we propose a parametrization of mesoscale eddy momentum fluxes based on large-scale flow deformation. The parametrization is argued to be suitable for use in eddy-permitting ocean general circulation models, and is motivated by an analogy between turbulence in Newtonian fluids (such as water) and laminar flow in non-Newtonian fluids. A primitive-equations model in an idealised double-gyre configuration at eddy-resolving horizontal resolution is used to diagnose the relationship between the proposed closure and the eddy fluxes resolved by the model. Favourable correlations suggest the closure could provide an appropriate deterministic parametrization of mesoscale eddies. The relationship between the closure and different representations of the Reynolds stress tensor is also described. The parametrized forcing possesses the key quasi-geostrophic turbulence properties of energy conservation and enstrophy dissipation, and allows for upgradient fluxes leading to the sharpening of vorticity gradients. The implementation of the closure for eddy-permitting ocean models requires only velocity derivatives and a single parameter that scales with model resolution.
 # Summary. An optional shortened abstract.
-summary: 
+Summary: 
 - Develops a parametrization of mesoscale eddies for eddy-permitting ocean models.
 - Energy conserved and enstrophy dissipated. Allows upgradient momentum transfers.
 - Mimics unresolved eddy forcing in idealised eddy-resolving model.

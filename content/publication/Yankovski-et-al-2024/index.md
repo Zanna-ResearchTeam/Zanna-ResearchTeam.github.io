@@ -21,7 +21,7 @@ publication_types: ['2']
 publication: '*JAMES*'
 publication_short: ''
 
-abstract:
+abstract: "Mesoscale eddies modulate the stratification, mixing, tracer transport, and dissipation pathways of oceanic flows over a wide range of spatiotemporal scales. The parameterization of buoyancy and momentum fluxes associated with mesoscale eddies thus presents an evolving challenge for ocean modelers, particularly as modern climate models approach eddy-permitting resolutions. Here we present a parameterization targeting such resolutions through the use of a subgrid mesoscale eddy kinetic energy budget (MEKE) framework. Our study presents two novel insights: (a) both the potential and kinetic energy effects of eddies may be parameterized via a kinetic energy backscatter, with no Gent-McWilliams along-isopycnal transport; (b) a dominant factor in ensuring a physically-accurate backscatter is the vertical structure of the parameterized momentum fluxes. We present simulations of 1/2° and 1/4° resolution idealized models with backscatter applied to the equivalent barotropic mode. Remarkably, the global kinetic and potential energies, isopycnal structure, and vertical energy partitioning show significantly improved agreement with a 1/32° reference solution. Our work provides guidance on how to parameterize mesoscale eddy effects in the challenging eddy-permitting regime."
 
 # Summary. An optional shortened abstract.
 summary: 
