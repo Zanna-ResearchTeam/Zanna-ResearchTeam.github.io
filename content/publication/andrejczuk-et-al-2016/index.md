@@ -25,8 +25,7 @@ publication: '*Mon. Wea. Rev., 144, 5, 1867-1875*'
 publication_short: ''
 
 abstract: Model uncertainty is one of the main sources of uncertainty in ensemble prediction on seasonal to decadal timescales. Here, we quantify model uncertainty in the ocean component of a seasonal forecast system by introducing a range of stochastic parametrizations. The stochastic parametrizations help increase the spread of the ensemble and reduce error. We find that the stochastically perturbed parameterization tendency (SPPT) schemes provided the largest impact on the model spread and bias. We also suggest new ways to reduce forecast error.
-# Summary. An optional shortened abstract.
-
+# summary
 
 tags:
   - Source Themes

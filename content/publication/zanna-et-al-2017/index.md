@@ -4,10 +4,10 @@ title: 'Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean F
 authors:
 
 - admin
-- P.G.L. Porta Mana
+- Luca_PortaMana
 - J. Anstey
 - T. David
-- T. Bolton
+- Tom_Bolton
 
 date: '2017-03-03T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.ocemod.2017.01.004'

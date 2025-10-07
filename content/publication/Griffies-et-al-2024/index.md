@@ -44,11 +44,10 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: '*Submitted to JAMES*'
-publication_short: ''
+# publication_short: ''
 
-
+abstract: 'This paper is Part II of a two-part paper that documents the CM4X (Climate Model version 4X) hierarchy of coupled climate models developed at the Geophysical Fluid Dynamics Laboratory (GFDL). Part I of this paper is presented in \citeA{CM4X_partI}. Here we present a suite of case studies that examine ocean and sea ice features that are targeted for further research, which include sea level, eastern boundary upwelling, Arctic and Southern Ocean sea ice, Southern Ocean circulation, and North Atlantic circulation. The case studies are based on experiments that follow the protocol of version 6 from the Coupled Model Intercomparison Project (CMIP6). The analysis reveals a systematic improvement in the simulation fidelity of CM4X relative to its CM4.0 predecessor, as well as an improvement when refining the ocean/sea ice horizontal grid spacing from the $0.25^{\circ}$ of CM4X-p25 to the $0.125^{\circ}$ of CM4X-p125. Even so, there remain many outstanding biases, thus pointing to the need for further grid refinements, enhancements to numerical methods, and/or advances in parameterizations, each of which target long-standing model biases and limitations.'
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes

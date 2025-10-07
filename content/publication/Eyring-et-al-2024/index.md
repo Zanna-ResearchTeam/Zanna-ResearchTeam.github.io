@@ -26,7 +26,7 @@ publication_types: ['2']
 publication: '*Nature Climate Change*'
 publication_short: ''
 
-
+abstract: "Climate modelling and analysis are facing new demands to enhance projections and climate information. Here we argue that now is the time to push the frontiers of machine learning beyond state-of-the-art approaches, not only by developing machine-learning-based Earth system models with greater fidelity, but also by providing new capabilities through emulators for extreme event projections with large ensembles, enhanced detection and attribution methods for extreme events, and advanced climate model analysis and benchmarking. Utilizing this potential requires key machine learning challenges to be addressed, in particular generalization, uncertainty quantification, explainable artificial intelligence and causality. This interdisciplinary effort requires bringing together machine learning and climate scientists, while also leveraging the private sector, to accelerate progress towards actionable climate science."
 summary: 
 
 tags:

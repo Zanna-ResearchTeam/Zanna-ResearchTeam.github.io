@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: "https://doi.org/10.1029/2021GL094502"
-url_pdf: /files/vanSebille-et-al.pdf
+url_pdf: /files/Wang-et-al-2021.pdf
 url_code: ''
 url_dataset: ''
 url_DOI: 'https://doi.org/10.1029/2021GL094502'

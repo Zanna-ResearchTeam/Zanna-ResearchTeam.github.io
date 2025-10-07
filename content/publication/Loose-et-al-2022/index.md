@@ -6,7 +6,7 @@ authors:
 - R. Abernathey
 - I. Grooms
 - J. Busecke
-- A. Guillaumin
+- Arthur_Guillaumin
 - Elizabeth_Yankovsky
 - G. Marques
 - J. Steinberg

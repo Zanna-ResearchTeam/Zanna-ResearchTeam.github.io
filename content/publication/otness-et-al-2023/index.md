@@ -5,7 +5,7 @@ authors:
   - J. Bruna
   - admin
 date: '2023-04-04T00:00:00Z'
-#doi: 'https://doi.org/10.5194/gmd-15-6567-2022'
+doi: 'https://doi.org/10.48550/arXiv.2303.17496'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-04T00:00:00Z'
@@ -20,7 +20,7 @@ publication_types: ['1']
 publication: '*ICLR, Workshop on Climate Change AI*, arXiv:2303.17496'
 publication_short: ''
 
-abstract:
+abstract: "We propose a multiscale approach for predicting quantities in dynamical systems which is explicitly structured to extract information in both fine-to-coarse and coarse-to-fine directions. We envision this method being generally applicable to problems with significant self-similarity or in which the prediction task is challenging and where stability of a learned model's impact on the target dynamical system is important. We evaluate our approach on a climate subgrid parameterization task in which our multiscale networks correct chaotic underlying models to reflect the contributions of unresolved, fine-scale dynamics."
 
 # Summary. An optional shortened abstract.
 summary: 

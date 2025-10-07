@@ -23,9 +23,29 @@ publication_types: ['2']
 publication: '*Nature Geosciences*'
 publication_short: ''
 
+abstract: 'The degree to which the Atlantic meridional overturning circulation
+(AMOC) weakens over the twenty-first century varies widely across climate
+models, with some predicting substantial weakening. Here we show that
+this uncertainty can be greatly reduced by using a thermal-wind expression
+that relates the AMOC strength to the meridional density difference
+and the overturning depth in the Atlantic. This expression captures the
+intermodel spread in AMOC weakening, with most of the spread arising
+from overturning depth changes. The overturning depth also establishes
+a crucial link between the present-day and future AMOC strength. Climate
+models with a stronger and deeper present-day overturning tend to predict
+larger weakening and shoaling under warming because the present-day
+North Atlantic is less stratified, allowing for a deeper penetration of surface
+buoyancy flux changes, larger density changes at depth and, consequently,
+larger AMOC weakening. By incorporating observational constraints, we
+conclude that the AMOC will experience limited weakening of about 3–6 Sv
+(about 18–43%) by the end of this century, regardless of emissions scenario.
+These results indicate that the uncertainty in twenty-first-century AMOC
+weakening and the propensity to predict substantial AMOC weakening can
+be attributed primarily to climate model biases in accurately simulating the
+present-day ocean stratification.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes

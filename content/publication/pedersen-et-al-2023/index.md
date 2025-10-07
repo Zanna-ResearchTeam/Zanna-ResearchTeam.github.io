@@ -5,7 +5,7 @@ authors:
   - J. Bruna
   - admin
 date: '2023-04-04T00:00:00Z'
-#doi: 'https://doi.org/10.5194/gmd-15-6567-2022'
+doi: 'https://doi.org/10.48550/arXiv.2307.13144'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-04-04T00:00:00Z'
@@ -20,7 +20,7 @@ publication_types: ['1']
 publication: '*ICML, Workshop on The Synergy of Scientific and Machine Learning Modeling*, arXiv:2307.13144'
 publication_short: ''
 
-abstract:
+abstract: "Integration of machine learning (ML) models of unresolved dynamics into numerical simulations of fluid dynamics has been demonstrated to improve the accuracy of coarse resolution simulations. However, when trained in a purely offline mode, integrating ML models into the numerical scheme can lead to instabilities. In the context of a 2D, quasi-geostrophic turbulent system, we demonstrate that including an additional network in the loss function, which emulates the state of the system into the future, produces offline-trained ML models that capture important subgrid processes, with improved stability properties."
 
 # Summary. An optional shortened abstract.
 summary: 

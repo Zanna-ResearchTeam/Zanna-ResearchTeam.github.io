@@ -25,7 +25,7 @@ publication_types: ['2']
 publication: '*Geophysical Research Letters*'
 publication_short: ''
 
-
+abstract: "In this study, we perform online sea ice bias correction within a Geophysical Fluid Dynamics Laboratory global ice-ocean model. For this, we use a convolutional neural network (CNN) which was developed in a previous study (Gregory et al., 2023, https://doi.org/10.1029/2023ms003757) for the purpose of predicting sea ice concentration (SIC) data assimilation (DA) increments. An initial implementation of the CNN shows systematic improvements in SIC biases relative to the free-running model, however large summertime errors remain. We show that these residual errors can be significantly improved with a novel sea ice data augmentation approach. This approach applies sequential CNN and DA corrections to a new simulation over the training period, which then provides a new training data set to refine the weights of the initial network. We propose that this machine-learned correction scheme could be utilized for generating improved initial conditions, and also for real-time sea ice bias correction within seasonal-to-subseasonal sea ice forecasts."
 summary: 
 
 tags:
