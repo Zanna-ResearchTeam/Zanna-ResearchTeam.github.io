@@ -3,7 +3,7 @@ title: 'Diagnosing the pattern effect in the atmosphere-ocean coupled system thr
 
 authors:
 - Fabrizio_Falasca
-- Aurora_Basinski
+- Rory_Basinski-Ferris
 - admin
 - M Zhao
 

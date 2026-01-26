@@ -1,7 +1,7 @@
 ---
 title: 'Estimating freshwater flux amplification with ocean tracers via linear response theory'
 authors:
- - Aurora_Basinski
+ - Rory_Basinski-Ferris
  - admin
 date: '2024-04-24T00:00:00Z'
 doi: 'https://doi.org/10.5194/esd-15-323-2024'

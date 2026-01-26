@@ -23,6 +23,8 @@ design:
 
 <br>
 
+Check out our brand new Center: the [Simons Center for Computational Geophysical Flows](/simons) ! 
+
 Our current projects are focused on: 
 
 🌊 Multiscale Ocean Dynamics: ocean turbulence and mixing; large scale ocean and atmospheric transport; extreme events. 

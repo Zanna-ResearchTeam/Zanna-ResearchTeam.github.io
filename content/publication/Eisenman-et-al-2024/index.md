@@ -3,7 +3,7 @@ title: 'The sensitivity of regional sea level changes to the depth of Antarctic 
 
 authors:
 - Ian Eisenman
-- Aurora_Basinski
+- Rory_Basinski-Ferris
 - Emma Beer
 - admin
 
