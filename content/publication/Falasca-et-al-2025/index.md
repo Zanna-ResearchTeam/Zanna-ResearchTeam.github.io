@@ -3,7 +3,7 @@ title: 'A fluctuation-dissipation theorem perspective on radiative responses to 
 
 authors:
 - Fabrizio_Falasca
-- Aurora_Basinski
+- Rory_Basinski-Ferris
 - admin
 - M Zhao
 

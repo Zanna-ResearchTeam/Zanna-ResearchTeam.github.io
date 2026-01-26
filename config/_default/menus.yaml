@@ -13,7 +13,10 @@ main:
   - name: Code & Data
     url: datasets
     weight: 60
+  - name: Simons Center
+    url: simons
+    weight: 80
   - name: Contact
     url: contact
-    weight: 80
+    weight: 100
 

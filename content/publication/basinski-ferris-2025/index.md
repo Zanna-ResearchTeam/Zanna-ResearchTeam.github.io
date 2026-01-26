@@ -1,7 +1,7 @@
 ---
 title: 'A theory for how the depth of meltwater injection impacts regional sea level evolution'
 authors:
- - Aurora_Basinski
+ - Rory_Basinski-Ferris
  - admin
  - I Eisenman
 date: '2025-06-03T00:00:00Z'
