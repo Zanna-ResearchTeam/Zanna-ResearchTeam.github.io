@@ -19,7 +19,7 @@ publishDate: '2023-04-04T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv:2402.04342*'
+publication: '*Published as a workshop paper at ”Tackling Climate Change with Machine Learning”, ICLR 2024*'
 publication_short: ''
 
 abstract: "The current explosion in machine learning for climate has led to skilled, computationally cheap emulators for the atmosphere. However, the research for ocean emulators remains nascent despite the large potential for accelerating coupled climate simulations and improving ocean forecasts on all timescales. There are several fundamental questions to address that can facilitate the creation of ocean emulators. Here we focus on two questions: 1) the role of the atmosphere in improving the extended skill of the emulator and 2) the representation of variables with distinct timescales (e.g., velocity and temperature) in the design of any emulator. In tackling these questions, we show stable prediction of surface fields for over 8 years, training and testing on data from a high-resolution coupled climate model, using results from four regions of the globe. Our work lays out a set of physically motivated guidelines for building ocean climate emulators."
