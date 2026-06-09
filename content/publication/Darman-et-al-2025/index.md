@@ -5,20 +5,20 @@ authors:
  - Pedram Hassanzadeh 
  - admin
  - Ashesh Chattopadhyay
-date: '2025-04-21T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2504.15487'
+date: '2026-04-10T00:00:00Z'
+doi: 'https://doi.org/10.1088/3049-4753/ae510d'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-04-01T00:00:00Z'
+publishDate: '2026-04-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-# publication: '**'
+# publication: '*Machine Learning: Earth*'
 publication_short: ''
 
 abstract: "Transfer learning (TL) is a powerful tool for enhancing the performance of neural networks (NNs) in applications such as weather and climate prediction and turbulence modeling. TL enables models to generalize to out-of-distribution data with minimal training data from the new system. In this study, we employ a 9-layer convolutional NN to predict the subgrid forcing in a two-layer ocean quasi-geostrophic system and examine which metrics best describe its performance and generalizability to unseen dynamical regimes. Fourier analysis of the NN kernels reveals that they learn low-pass, Gabor, and high-pass filters, regardless of whether the training data are isotropic or anisotropic. By analyzing the activation spectra, we identify why NNs fail to generalize without TL and how TL can overcome these limitations: the learned weights and biases from one dataset underestimate the out-of-distribution sample spectra as they pass through the network, leading to an underestimation of output spectra. By re-training only one layer with data from the target system, this underestimation is corrected, enabling the NN to produce predictions that match the target spectra. These findings are broadly applicable to data-driven parameterization of dynamical systems."
@@ -30,11 +30,11 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.48550/arXiv.2504.15487"
+#   url: "https://doi.org/10.1088/3049-4753/ae510d"
 url_pdf: /files/Darman-et-al-2025.pdf
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.48550/arXiv.2504.15487'
+url_DOI: 'https://doi.org/10.1088/3049-4753/ae510d'
 url_project: ''
 url_slides: ''
 url_source: ''
