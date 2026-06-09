@@ -20,20 +20,20 @@ authors:
  - admin
  - C Bretherton
  
-date: '2025-09-15T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2509.12490'
+date: '2026-05-29T00:00:00Z'
+doi: 'https://doi.org/10.1029/2025GL119340'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-09-15T00:00:00Z'
+publishDate: '2026-05-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Arxiv*'
+publication: '*GRL*'
 publication_short: ''
 
 
@@ -45,11 +45,11 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.48550/arXiv.2509.12490"
+#   url: "https://doi.org/10.1029/2025GL119340"
 url_pdf: /files/SamudrACE.pdf
 url_code: ''
 url_dataset: ''
-url_DOI: 'https://doi.org/10.48550/arXiv.2509.12490'
+url_DOI: 'https://doi.org/10.1029/2025GL119340'
 url_project: ''
 url_slides: ''
 url_source: ''
