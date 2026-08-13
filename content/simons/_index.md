@@ -9,6 +9,9 @@ banner:
   caption: ''
   image: '/building.jpeg'
 ---
+<!--more-->
+
+## The **[website](https://wp.nyu.edu/sccgf/)** for the Simons Center is now live! 
 
 ### Research Focus
 
