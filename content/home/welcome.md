@@ -7,7 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Zanna Research Group
+  Laure Zanna Research Group | Ocean, Climate & AI
+
 hero_media: Abigail_pic.jpg
 # hero_media: guadeloupe_2.png
 
