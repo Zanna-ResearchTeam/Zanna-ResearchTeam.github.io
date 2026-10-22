@@ -19,13 +19,13 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Zanna research group'
+    description: "Laure Zanna's research group at NYU Courant: ocean dynamics, climate modeling, and AI for ocean and climate physics. Home of M²LInES and the Simons Center."
     twitter: 'laurezanna'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google39e3f61aaa8692da.html'
     baidu: ''
 
 # Site header
