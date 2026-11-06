@@ -25,8 +25,6 @@ publication_short: ''
 abstract: 'The impact of uncertainties in air-sea fluxes and ocean model parameters on the ocean circulation and ocean heat uptake (OHU) is assessed in a novel modeling framework. We use an ocean-only model forced with the simulated sea surface fields of the CMIP5 climate models. The simulations are performed using control and 1% CO2 warming scenarios. The ocean-only ensemble adequately reproduces the mean Atlantic Meridional Overturning Circulation (AMOC) and the zonally integrated OHU. The ensemble spread in AMOC strength, its weakening, and Atlantic OHU due to different air-sea fluxes is twice as large as the uncertainty range related to vertical and mesocale eddy diffusivities. The sensitivity of OHU to uncertainties in air-sea fluxes and model parameters differs vastly across basins, with the Southern Ocean exhibiting strong sensitivity to air-sea fluxes and model parameters. This study clearly demonstrates that model biases in air-sea fluxes are one of the key sources of uncertainty in climate simulations.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

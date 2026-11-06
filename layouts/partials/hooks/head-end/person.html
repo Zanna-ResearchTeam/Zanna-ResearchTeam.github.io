@@ -1,0 +1,33 @@
+{{ if or .IsHome (eq .RelPermalink "/author/laure-zanna/") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://zanna-researchteam.github.io/author/laure-zanna/#person",
+  "name": "Laure Zanna",
+  "url": "https://zanna-researchteam.github.io/author/laure-zanna/",
+  "jobTitle": "Joseph B. Keller and Herbert B. Keller Professor of Applied Mathematics",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "New York University, Courant Institute School of Mathematics, Computing and Data Science"
+  },
+  "alumniOf": [
+    {"@type": "CollegeOrUniversity", "name": "Harvard University"},
+    {"@type": "CollegeOrUniversity", "name": "Weizmann Institute of Science"},
+    {"@type": "CollegeOrUniversity", "name": "Tel Aviv University"}
+  ],
+  "award": "Nicholas P. Fofonoff Award, American Meteorological Society, 2020",
+  "knowsAbout": ["Ocean dynamics", "Climate modeling", "Machine learning for climate",
+                 "Ocean turbulence", "Sea level", "Geophysical fluid dynamics"],
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Laure_Zanna"
+    "https://orcid.org/0000-0002-8472-4828",
+    "https://scholar.google.com/citations?user=xWZmhjsAAAAJ",
+    "https://github.com/LaureZanna",
+    "https://www.linkedin.com/in/laurezanna/",
+    "https://www.researchgate.net/profile/Laure-Zanna-2",
+    "https://x.com/laurezanna"
+  ]
+}
+</script>
+{{ end }}

@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'In global ocean models, the representation of small-scale, high-frequency processes considerably influences the large-scale oceanic circulation and its low-frequency variability. This study investigates the impact of stochastic perturbation schemes based on three different subgrid-scale parameterizations in multidecadal ocean-only simulations with the ocean model NEMO at 1° resolution. The three parameterizations are an enhanced vertical diffusion scheme for unstable stratification, the Gent–McWilliams (GM) scheme, and a turbulent kinetic energy mixing scheme, all commonly used in state-of-the-art ocean models. The focus here is on changes in interannual variability caused by the comparatively high-frequency stochastic perturbations with subseasonal decorrelation time scales. These perturbations lead to significant improvements in the representation of low-frequency variability in the ocean, with the stochastic GM scheme showing the strongest impact. Interannual variability of the Southern Ocean eddy and Eulerian streamfunctions is increased by an order of magnitude and by 20%, respectively. Interannual sea surface height variability is increased by about 20%–25% as well, especially in the Southern Ocean and in the Kuroshio region, consistent with a strong underestimation of interannual variability in the model when compared to reanalysis and altimetry observations. These results suggest that enhancing subgrid-scale variability in ocean models can improve model variability and potentially its response to forcing on much longer time scales, while also providing an estimate of model uncertainty.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

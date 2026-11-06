@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'Atlantic multidecadal variability (AMV) of sea surface temperature exhibits an important influence on the climate of surrounding continents. It remains unclear, however, the extent to which AMV is due to internal climate variability (e.g., ocean circulation variability) or changes in external forcing (e.g., volcanic/anthropogenic aerosols or greenhouse gases). Here, the sources of AMV are examined over a 340-yr period using proxy indices, instrumental data, and output from the Last Millennium Ensemble (LME) simulation. The proxy AMV closely follows the accumulated atmospheric forcing from the instrumental North Atlantic Oscillation (NAO) reconstruction (r = 0.65)—an “internal” source of AMV. This result provides strong observational evidence that much of the AMV is generated through the oceanic response to atmospheric circulation forcing, as previously demonstrated in targeted modeling studies. In the LME there is a substantial externally forced AMV component, which exhibits a modest but significant correlation with the proxy AMV (i.e., r = 0.37), implying that at least 13% of the AMV is externally forced. In the LME simulations, however, the AMV response to accumulated NAO forcing is weaker than in the proxy/observational datasets. This weak response is possibly related to the decadal NAO variability, which is substantially weaker in the LME than in observations. The externally forced component in the proxy AMV is also related to the accumulated NAO forcing, unlike in the LME. This indicates that the external forcing is likely influencing the AMV through different mechanistic pathways: via changes in radiative forcing in the LME and via changes in atmospheric circulation in the observational/proxy record.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

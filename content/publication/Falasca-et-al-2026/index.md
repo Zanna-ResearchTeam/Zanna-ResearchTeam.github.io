@@ -25,8 +25,6 @@ publication_short: ''
 abstract: 'We present a framework for constructing physics and causally constrained neural models of turbulent dynamical systems from data. We first formulate a finite-time flow map with strict energy-preserving nonlinearities for stable modeling of temporally discrete trajectories. We then impose causal constraints to suppress spurious interactions across degrees of freedom. The resulting neural models accurately capture stationary statistics and responses to both small and large external forcings. We demonstrate the framework on the stochastic Charney-DeVore equations and on a symmetry-broken Lorenz-96 system. The framework is broadly applicable to reduced-order modeling of turbulent dynamical systems from observational data.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

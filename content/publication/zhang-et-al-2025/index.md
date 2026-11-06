@@ -25,8 +25,6 @@ abstract: "This study addresses the boundary artifacts in machine-learned (ML) p
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

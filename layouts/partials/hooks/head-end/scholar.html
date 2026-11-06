@@ -1,0 +1,10 @@
+{{ if and (eq .Type "publication") (eq .Kind "page") }}
+<meta name="citation_title" content="{{ .Title }}">
+{{ range .GetTerms "authors" }}<meta name="citation_author" content="{{ .LinkTitle }}">
+{{ end }}
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
+{{ with .Params.publication }}<meta name="citation_journal_title" content="{{ . | markdownify | plainify }}">{{ end }}
+{{ with .Params.doi }}<meta name="citation_doi" content="{{ replace . "https://doi.org/" "" }}">{{ end }}
+{{ with .Params.url_pdf }}<meta name="citation_pdf_url" content="{{ . | absURL }}">{{ end }}
+<meta name="citation_abstract_html_url" content="{{ .Permalink }}">
+{{ end }}

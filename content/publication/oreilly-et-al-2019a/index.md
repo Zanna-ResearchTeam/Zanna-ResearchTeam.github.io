@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'The extratropical teleconnection from the tropical Pacific in boreal summer exhibits a significant shift over the past 70 years. Cyclonic circulation anomalies over the North Atlantic and Eurasia associated with El Niño in the later period (1978–2014) are absent in the earlier period (1948–1977). An initialized atmospheric model ensemble, performed with prescribed sea surface temperature (SST) boundary conditions, replicates some key features of the shift in the teleconnection, providing clear evidence that this shift is not simply due to internal atmospheric variability or random sampling. Additional ensemble simulations, one with detrended tropical SSTs and another with constant external forcing are analyzed. In the model, the teleconnection shift is associated with climatological atmospheric circulation changes, which are substantially reduced in the simulation with detrended tropical SSTs. These results demonstrate that the climatological atmospheric circulation and associated teleconnection changes are largely forced by tropical SST trends.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

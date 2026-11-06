@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'Multidecadal variability in the Atlantic meridional overturning circulation (AMOC) is shown to differ significantly between the 4 × CO2 and preindustrial control simulations of the GFDL Earth System Model, version 2M (ESM2M) general circulation model (GCM). In the preindustrial simulation, this model has a peak in the power spectrum of both AMOC and northward heat transport at latitudes between 26° and 50°N. In the 4 × CO2 simulation, the only significant spectral peak is near 60°N. Understanding these differences is important for understanding the effect of future climate change on climate variability, as well as for providing insight into the physics underlying AMOC variability. Transfer function analysis demonstrates that the shift is predominantly due to a shift in the internal ocean dynamics rather than a change in stochastic atmospheric forcing. Specifically, the reduction in variance from 26° to 45°N is due to an increased stratification east of Newfoundland that results from the shallower and weaker mean overturning. The reduced AMOC variance that accompanies the reduced mean value of the AMOC at 4 × CO2 differs from predictions of simple box models that predict a weaker circulation to be closer to a stability bifurcation point and, therefore, be accompanied by amplified variability. The high-latitude variability in the 4 × CO2 simulation is related to the advection of anomalies by the subpolar gyre, distinct from the variability mechanism in the control simulation at lower latitudes. The 4 × CO2 variability has only a small effect on midlatitude meridional heat transport, but does significantly affect sea ice in the northern North Atlantic.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

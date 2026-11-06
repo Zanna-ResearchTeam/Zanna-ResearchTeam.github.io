@@ -31,8 +31,6 @@ publication_short: ''
 abstract: "Due to computational constraints, climate simulations cannot resolve a range of small-scale physical processes, which have a significant impact on the large-scale evolution of the climate system. Parameterization is an approach to capture the effect of these processes, without resolving them explicitly. In recent years, data-driven parameterizations based on convolutional neural networks have obtained promising results. In this work, we provide an in-depth analysis of these parameterizations developed using data from ocean simulations. The parametrizations account for the effect of mesoscale eddies toward improving simulations of momentum, heat, and mass exchange in the ocean. Our results provide several insights into the properties of data-driven parameterizations based on neural networks. First, their performance can be substantially improved by increasing the geographic extent of the training data. Second, they learn nonlinear structure, since they are able to outperform a linear baseline. Third, they generalize robustly across different CO2 forcings, but not necessarily across different ocean depths. Fourth, they exploit a relatively small region of their input to generate their output. Our results will guide the further development of ocean mesoscale eddy parameterizations, and multiscale modeling more generally."
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -50,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

@@ -24,8 +24,6 @@ publication_short: ''
 abstract: A recent class of ocean eddy parameterizations proposed by Porta Mana and Zanna (2014) and Anstey and Zanna (2017) modeled the large-scale flow as a non-Newtonian fluid whose subgridscale eddy stress is a nonlinear function of the deformation. This idea, while largely new to ocean modeling, has a history in turbulence modeling dating at least back to Rivlin (1957). The new class of parameterizations results in equations that resemble the Lagrangian-averaged Navier–Stokes-α model (LANS-α, e.g., Holm et al., 1998a). In this note we employ basic tensor mathematics to highlight the similarities between these turbulence models using component-free notation. We extend the Anstey and Zanna (2017) parameterization, which was originally presented in 2D, to 3D, and derive variants of this closure that arise when the full non-Newtonian stress tensor is used. Despite the mathematical similarities between the non-Newtonian and LANS-α models which might provide insight into numerical implementation, the input and dissipation of kinetic energy between these two turbulent models differ.# Summary. An optional shortened abstract.
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -43,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

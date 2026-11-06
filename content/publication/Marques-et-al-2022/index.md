@@ -33,8 +33,6 @@ publication_short: ''
 abstract: We describe an idealized primitive-equation model for studying mesoscale turbulence and leverage a hierarchy of grid resolutions to make eddy-resolving calculations on the finest grids more affordable. The model has intermediate complexity, incorporating basin-scale geometry with idealized Atlantic and Southern oceans and with non-uniform ocean depth to allow for mesoscale eddy interactions with topography. The model is perfectly adiabatic and spans the Equator and thus fills a gap between quasi-geostrophic models, which cannot span two hemispheres, and idealized general circulation models, which generally include diabatic processes and buoyancy forcing. We show that the model solution is approaching convergence in mean kinetic energy for the ocean mesoscale processes of interest and has a rich range of dynamics with circulation features that emerge only due to resolving mesoscale turbulence.
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

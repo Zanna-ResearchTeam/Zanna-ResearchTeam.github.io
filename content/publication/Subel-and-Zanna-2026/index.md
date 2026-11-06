@@ -22,8 +22,6 @@ publication_short: ''
 
 # Summary. An optional shortened abstract.
 abstract: AI weather emulators benefit from clear objectives and metrics, which have led to the rapid development of models that outperform traditional benchmarks. In contrast, long-term climate emulators must reliably reproduce forced responses over months to centuries, while relying on training objectives that span a small number of model time steps. We assess autoregressive, full-depth ocean emulators using data from the midHolocene experiment of a numerical climate model to examine their skill in responding to surface forcings from an in-distribution, out-of-sample climate. We demonstrate that these emulators generalize to new orbital forcings, reproducing the spatial structure of the large-scale response as well as changes in seasonal patterns and in the spatial structure of ocean variability, while underestimating their amplitude. Baselines that infer the ocean state directly from the boundary forcings also recover much of the large-scale pattern, but only near the surface, and capture neither the seasonal nor the variability changes, indicating that these require some representation of dynamics. Despite these successes, the emulators fail to reproduce the slow, internally driven evolution of the ocean interior. We then show that the emulators' total forced response is well reconstructed by linearly composing their independent responses to each forcing component. Tracking response across training epochs, we find that convergence on mean state metrics in the training climate does not guarantee that the emulators capture the dynamics necessary for a skillful response. Together, these experiments establish the midHolocene as a controlled, ground-truthed setting for diagnosing forced-response failures before emulators are pushed to out-of-distribution climates.
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -41,7 +39,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

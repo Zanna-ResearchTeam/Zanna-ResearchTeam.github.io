@@ -24,8 +24,6 @@ abstract: "We propose a multiscale approach for predicting quantities in dynamic
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:
