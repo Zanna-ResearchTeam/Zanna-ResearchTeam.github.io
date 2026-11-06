@@ -1,6 +1,8 @@
 ---
 title: Simons Center for Computational Geophysical Flows
 
+summary: "The Simons Center for Computational Geophysical Flows at NYU Courant, led by Laure Zanna: research on multiscale geophysics, AI, and postdoctoral fellowships."
+
 # Listing view
 view: citation
 

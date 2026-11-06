@@ -1,4 +1,4 @@
-{{ if and (eq .Kind "term") (eq .Data.Plural "authors") (not .Content) }}
+{{ if and (eq .Kind "term") (eq .Data.Plural "authors") (not .File) }}
   <meta name="robots" content="noindex, follow">
 {{ end }}
 {{ if or (eq .Kind "taxonomy") (eq .Section "admin") }}
