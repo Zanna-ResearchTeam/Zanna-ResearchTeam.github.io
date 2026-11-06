@@ -1,6 +1,8 @@
 ---
 title: Datasets and Codes
 
+summary: "Open code and datasets from Laure Zanna's group: the Samudra AI ocean emulator, ML ocean parameterizations, ocean heat content and sea level reconstructions."
+
 # Listing view
 view: citation
 

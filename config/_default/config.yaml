@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Laure Zanna Research Group, NYU' # Website name
-baseURL: 'https://zanna-ResearchTeam.github.io/' # Website URL
+baseURL: 'https://zanna-researchteam.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

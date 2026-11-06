@@ -1,6 +1,7 @@
 ---
 title: Publications
 
+summary: "Publications by Laure Zanna's group at NYU on ocean turbulence, climate modeling, sea level and machine learning for ocean and climate physics, with PDF links."
 # Listing view
 view: citation
 

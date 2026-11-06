@@ -1,6 +1,8 @@
 ---
 title: Latest News
 
+summary: "News from Laure Zanna's group at NYU: Samudra and AI ocean emulators, M²LInES updates, the Simons Center, media coverage, awards and talks on climate and AI."
+
 # Listing view
 view: compact
 

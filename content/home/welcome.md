@@ -25,7 +25,7 @@ design:
 <br>
 Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system; we develop theory, models and algorithms to tackle some key problems in ocean and climate dynamics.  
 
-The group is led by [Laure Zanna](/author/laure-zanna/), the Joseph B. Keller and Herbert B. Keller Professor of Applied Mathematics at NYU Courant and Vice Dean for Research. She also leads the [M²LInES](m2lines.github.io) collaboration and the [Simons Center for Computational Geophysical Flows](https://wp.nyu.edu/sccgf/).
+The group is led by [Laure Zanna](/author/laure-zanna/), the Joseph B. Keller and Herbert B. Keller Professor of Applied Mathematics at NYU Courant and Vice Dean for Research. She also leads the [M²LInES](https://m2lines.github.io) collaboration and the [Simons Center for Computational Geophysical Flows](https://wp.nyu.edu/sccgf/).
 </br>
 
 

@@ -1,4 +1,6 @@
 ---
+summary: "Laure Zanna is Professor of Applied Mathematics at NYU Courant, working on ocean dynamics, climate modeling and AI for climate."
+  
 # Display name
 title: Laure Zanna 
 
