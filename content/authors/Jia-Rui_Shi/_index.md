@@ -18,7 +18,7 @@ bio:
 
 interests:
   - Climate change and variability
-  - Physcial Oceanography
+  - Physical Oceanography
   - Large-scale ocean dynamics
   - Air-sea interactions
 
