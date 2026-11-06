@@ -6,7 +6,7 @@ title: Chris O'Reilly
 superuser: false
 
 # Role/position
-role: Royal Society University Reasearch Fellow, Reading U. 
+role: Royal Society University Research Fellow, Reading U. 
 
 # Organizations/Affiliations
 #organizations:

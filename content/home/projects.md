@@ -31,7 +31,7 @@ Our current projects are focused on:
 
 🧠 AI for Science - in particular, AI for Ocean/Climate Physics: e.g., algorithms and data-driven models that respect the laws of physics; extracting new physics from data; foundation models for ocean + climate.  
 
-🧑‍💻 Dynamical Systems & Numerical Modeling: stochastic differential equations; fluctuation-dissaption theory; optimization; adjoint methods; hybrid (AI + physics) methods. 
+🧑‍💻 Dynamical Systems & Numerical Modeling: stochastic differential equations; fluctuation-dissipation theory; optimization; adjoint methods; hybrid (AI + physics) methods. 
 
 🌎 We are leading M<sup>2</sup>LInES - Multiscale Machine Learning In Coupled Earth System Modeling - a large international collaborative project with the goal of improving climate simulations, using AI. More info [here](https://m2lines.github.io/). Also you can read about our AI Ocean Emulators, [Samudra](https://medium.com/@lz1955/meet-samudra-m%C2%B2lines-ai-global-ocean-emulator-for-climate-09616fe2244f) and our new generation of [Hybrid AI+Physics Ocean Climate Models](https://medium.com/@lz1955/a-new-generation-of-climate-models-aefd851d47bd). 
 

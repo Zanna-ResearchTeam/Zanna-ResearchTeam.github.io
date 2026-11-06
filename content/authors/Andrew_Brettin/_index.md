@@ -6,7 +6,7 @@ title: Andrew Brettin
 superuser: false
 
 # Role/position
-role: PhD Student [he/him]
+role: Associate Vice President at ISS
 
 # Organizations/Affiliations
 organizations:

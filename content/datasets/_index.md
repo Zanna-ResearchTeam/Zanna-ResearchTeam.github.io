@@ -26,7 +26,7 @@ The group GitHub Repos can be found [here](https://github.com/Zanna-ResearchTeam
 - [MOM6 Implementation of data-driven parameterization](https://github.com/Pperezhogin/MOM6/blob/Zanna-Bolton-2020/src/parameterizations/lateral/MOM_Zanna_Bolton.F90): e.g., Zanna & Bolton 2020.
 
 ### Ocean Transport and Eddy Energy CPT Datasets
-- GCM-filter codes and datasets from Noose et al. 2022 on [Github](https://github.com/ocean-eddy-cpt/gcm-filters)
+- GCM-filter codes and datasets from Loose et al. 2022 on [Github](https://github.com/ocean-eddy-cpt/gcm-filters)
 
 - Neverworld dataset from Marques et al. 2022 [here](https://www.earthsystemgrid.org/dataset/ucar.cgd.nw2.mom6.html)
 
