@@ -35,8 +35,6 @@ publication_short: ''
 abstract: "There is large uncertainty in the future regional sea level change under anthropogenic climate change. Our study presents and uses a novel design of ocean general circulation model (OGCM) experiments to investigate the ocean's response to surface buoyancy and momentum flux perturbations without atmosphere-ocean feedbacks (e.g., without surface restoring or bulk formulae), as part of the Flux-Anomaly-Forced Model Intercomparison Project (FAFMIP). In an ensemble of OGCMs forced with identical surface flux perturbations, simulated dynamic sea level (DSL) and ocean heat content (OHC) change demonstrate considerable disagreement. In the North Atlantic, the disagreement in DSL and OHC change between models is mainly due to differences in the residual (resolved and eddy) circulation change, with a large spread in the Atlantic meridional overturning circulation (AMOC) weakening (20–50%). In the western North Pacific, OHC change is similar among the OGCM ensemble, but the contributing physical processes differ. For the Southern Ocean, isopycnal and diapycnal mixing change dominate the spread in OHC change. In addition, a component of the atmosphere-ocean feedbacks are quantified by comparing coupled, atmosphere-ocean GCM (AOGCM) and OGCM FAFMIP experiments with consistent ocean models. We find that there is 10% more AMOC weakening in AOGCMs relative to OGCMs, since the extratropical North Atlantic SST cooling due to heat redistribution amplifies the surface heat flux perturbation. This component of the atmosphere-ocean feedbacks enhances the pattern of North Atlantic OHC and DSL change, with relatively stronger increases and decreases in the tropics and extratropics, respectively."
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -54,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

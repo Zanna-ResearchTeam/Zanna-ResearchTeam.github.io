@@ -28,8 +28,6 @@ publication_short: ''
 abstract: "The use of coarse resolution and strong grid-scale dissipation has prevented global ocean models from simulating the correct kinetic energy level. Recently parameterizing energy backscatter has been proposed to energize the model simulations. Parameterizing backscatter reduces long-standing North Atlantic sea surface temperature (SST) and associated surface current biases, but the underlying mechanism remains unclear. Here, we apply backscatter in different geographic regions to distinguish the different physical processes at play. We show that an improved Gulf Stream path is due to backscatter acting north of the Grand Banks to maintain a strong deep western boundary current. An improved North Atlantic Current path is due to backscatter acting around the Flemish Cap, with likely an improved nearby topography-flow interactions. These results suggest that the SST improvement with backscatter is partly due to the resulted strengthening of resolved currents, whereas the role of improved eddy physics requires further research."
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

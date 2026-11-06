@@ -26,8 +26,6 @@ abstract: "The Ocean Heat Uptake Efficiency (OHUE) quantifies the ocean's abilit
 
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

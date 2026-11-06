@@ -28,8 +28,6 @@ publication_short: ''
 
 # Summary. An optional shortened abstract.
 abstract: We introduce CAMulator version 1, an auto-regressive machine-learned (ML) emulator of the Community Atmosphere Model version 6 (CAM6) that simulates the next atmospheric state given the prescribed sea surface temperatures and incoming solar radiation. CAMulator explicitly conserves global dry air mass, moisture, and total atmospheric energy while remaining numerically stable over indefinite climate integrations. It successfully reproduces the annual CAM6 climatology and key modes of climate variability, including the El Niño-Southern Oscillation, the North Atlantic Oscillation, and the Pacific-North American pattern, with slightly muted variability. When forced with sea surface temperature (SST) outside the training distribution, CAMulator exhibits a systematic cold bias in high-latitude regions, particularly in boreal winter, likely due to the absence of interactive land and sea ice. Nonetheless, CAMulator achieves these results with a 350 times speedup over CAM6, making it an efficient alternative for generating large ensembles.
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

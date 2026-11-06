@@ -25,8 +25,6 @@ publication_short: ''
 abstract: 'The ocean is a turbulent fluid with processes acting on a variety of spatio-temporal scales. The estimates of energy fluxes between length scales allows us to understand how the mean flow is maintained as well as how mesoscale eddies are formed and dissipated. Here, we quantify the kinetic energy budget in a suite of realistic global ocean models, with varying horizontal resolution and horizontal viscosity. We show that eddy-permitting ocean models have weaker kinetic energy cascades than eddy-resolving models due to discrepancies in the effect of wind forcing, horizontal viscosity, potential to kinetic energy conversion, and nonlinear interactions on the kinetic energy (KE) budget. However, the change in eddy kinetic energy between the eddy-permitting and the eddy-resolving model is not enough to noticeably change the scale where the inverse cascade arrests or the Rhines scale. In addition, we show that the mechanism by which baroclinic flows organise into barotropic flows is weaker at lower resolution, resulting in a more baroclinic flow. Hence, the horizontal resolution impacts the vertical structure of the simulated flow. Our results suggest that the effect of mesoscale eddies can be parameterised by enhancing the potential to kinetic energy conversion, i.e., the horizontal pressure gradients, or enhancing the inverse cascade of kinetic energy.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

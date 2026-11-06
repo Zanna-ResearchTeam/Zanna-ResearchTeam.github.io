@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'Using the GFDL coupled atmosphere–ocean general circulation model CM2.1, the transient amplification of thermohaline circulation (THC) anomalies due to its nonnormal dynamics is studied. A reduced space based on empirical orthogonal functions (EOFs) of temperature and salinity anomaly fields in the North Atlantic is constructed. Under the assumption that the dynamics of this reduced space is linear, the propagator of the system is then evaluated and the transient growth of THC anomalies analyzed. Although the linear dynamics are stable, such that any initial perturbation eventually decays, nonnormal effects are found to result in a significant transient growth of temperature, salinity, and THC anomalies. The growth time scale for these anomalies is between 5 and 10 yr, providing an estimate of the predictability time of the North Atlantic THC in this model. There are indications that these results are merely a lower bound on the nonnormality of THC dynamics in the present coupled GCM. This seems to suggest that such nonnormal effects should be seriously considered if the predictability of the THC is to be quantitatively evaluated from models or observations. The methodology presented here may be used to produce initial perturbations to the ocean state that may result in a stricter estimate of ocean and THC predictability than the common procedure of initializing with an identical ocean state and a perturbed atmosphere.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

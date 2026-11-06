@@ -24,8 +24,6 @@ abstract: "Integration of machine learning (ML) models of unresolved dynamics in
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

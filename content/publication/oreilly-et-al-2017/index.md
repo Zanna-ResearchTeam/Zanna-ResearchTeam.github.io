@@ -27,8 +27,6 @@ publication_short: ''
 abstract: 'The Atlantic Multidecadal Oscillation (AMO) significantly influences the climate of the surrounding continents and has previously been attributed to variations in the Atlantic Meridional Overturning Circulation. Recently, however, similar multidecadal variability was reported in climate models without ocean circulation variability. We analyze the relationship between turbulent heat fluxes and sea surface temperatures (SSTs) over the midlatitude North Atlantic in observations and coupled climate model simulations, both with and without ocean circulation variability. SST anomalies associated with the AMO are positively correlated with heat fluxes on decadal time scales in both observations and models with varying ocean circulation, whereas in models without ocean circulation variability the anomalies are negatively correlated when heat flux anomalies lead. These relationships are captured in a simple stochastic model and rely crucially on low-frequency forcing of SST. The fully coupled models that better capture this signature more effectively reproduce the observed impact of the AMO on European summertime temperatures.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -46,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

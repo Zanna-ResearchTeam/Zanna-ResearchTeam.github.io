@@ -24,8 +24,6 @@ publication_short: ''
 abstract: 'The relationship between decadal sea surface temperature (SST) and turbulent heat fluxes is assessed and used to identify where oceanic processes play an important role in extratropical decadal SST variability. In observational data sets and coupled climate model simulations from the Coupled Model Intercomparison Project Phase 5 archive, positive correlations between upward turbulent heat flux and SSTs indicate an active role of oceanic processes over regions in the North Atlantic, Northwest Pacific, Southern Pacific, and Southern Atlantic. The contrasting nature of oceanic influence on decadal SST anomalies in the Northwest Pacific and North Atlantic is identified. Over the Northwest Pacific, SST anomalies are consistent with changes in the horizontal wind-driven gyre circulation on timescales of between 3 and 7 years, in both the observations and models. Over the North Atlantic, SST anomalies are also preceded by atmospheric circulation anomalies, though the response is stronger at longer timescales—peaking at around 20 years in the observations and at around 10 years in the models.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -43,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

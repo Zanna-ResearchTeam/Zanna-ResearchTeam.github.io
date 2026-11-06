@@ -40,8 +40,6 @@ ocean’s transient adjustment on meltwater injection depth in more complex mode
 highlights processes that could cause errors in the projection of the time-varying pattern of sea
 level rise using surface meltwater input to represent Antarctica’s freshwater forcing.'
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -59,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

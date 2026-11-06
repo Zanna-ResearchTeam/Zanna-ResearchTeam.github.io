@@ -28,8 +28,6 @@ abstract: 'Interannual sea surface height (SSH) forecasts are subject to several
 
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

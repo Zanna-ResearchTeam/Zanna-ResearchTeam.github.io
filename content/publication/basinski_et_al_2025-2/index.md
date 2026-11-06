@@ -23,8 +23,6 @@ publication_short: ''
 
 # Summary. An optional shortened abstract.
 abstract: "Antarctic meltwater is expected to increase throughout the coming centuries and impact sea level, ocean circulation, and the coupled climate evolution. This motivates interest in understanding the ocean response to Antarctic freshwater injection, including potential sources of uncertainty. In this study, we use idealized single-basin ocean simulations with meltwater input to examine the dependence of ocean transport and the timescales of the adjustment of regional sea level patterns on: (a) the model resolution and parameter values such as the mesoscale eddy Gent-McWilliams parameterization and vertical diffusivity, thereby partially addressing structural and parametric uncertainty; and (b) the depth of meltwater forcing, which must be prescribed both in our experiments and in most comprehensive climate model simulations, due to a lack of dynamic coupling with an ice sheet model. We find distinct sea level adjustment timescales and changes in the upper and abyssal cells depending on the depth of input, including a near total shutdown of the abyssal cell which only occurs with meltwater injection at the surface. We additionally demonstrate strong connections between the adjustment of key variables, such as regional sea level, and the background stratification in the control simulation, which depends on the model resolution and parameter values. This indicates that the ocean state and physics substantially influence the dynamic ocean response to ice shelf meltwater, in addition to uncertainty in how ocean models interact with fluxes from ice sheets."
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -42,7 +40,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

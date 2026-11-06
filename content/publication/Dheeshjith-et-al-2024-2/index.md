@@ -28,8 +28,6 @@ publication_short: ''
 # Summary. An optional shortened abstract.
 abstract: AI emulators for forecasting have emerged as powerful tools that can outperform conventional numerical predictions. The next frontier is to build emulators for long climate simulations with skill across a range of spatiotemporal scales, a particularly important goal for the ocean. Our work builds a skillful global emulator of the ocean component of a state-of-the-art climate model. We emulate key ocean variables, sea surface height, horizontal velocities, temperature, and salinity, across their full depth. We use a modified ConvNeXt UNet architecture trained on multidepth levels of ocean data. We show that the ocean emulator - Samudra - which exhibits no drift relative to the truth, can reproduce the depth structure of ocean variables and their interannual variability. Samudra is stable for centuries and 150 times faster than the original ocean model. Samudra struggles to capture the correct magnitude of the forcing trends and simultaneously remains stable, requiring further work.
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

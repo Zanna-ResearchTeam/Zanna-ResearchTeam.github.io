@@ -43,8 +43,6 @@ publication_short: ''
 abstract: 'Sea levels of different atmosphere–ocean general circulation models (AOGCMs) respond to climate change forcing in different ways, representing a crucial uncertainty in climate change research. We isolate the role of the ocean dynamics in setting the spatial pattern of dynamic sea-level (ζ) change by forcing several AOGCMs with prescribed identical heat, momentum (wind) and freshwater flux perturbations. This method produces a ζ projection spread comparable in magnitude to the spread that results from greenhouse gas forcing, indicating that the differences in ocean model formulation are the cause, rather than diversity in surface flux change. The heat flux change drives most of the global pattern of ζ change, while the momentum and water flux changes cause locally confined features. North Atlantic heat uptake causes large temperature and salinity driven density changes, altering local ocean transport and ζ. The spread between AOGCMs here is caused largely by differences in their regional transport adjustment, which redistributes heat that was already in the ocean prior to perturbation. The geographic details of the ζ change in the North Atlantic are diverse across models, but the underlying dynamic change is similar. In contrast, the heat absorbed by the Southern Ocean does not strongly alter the vertically coherent circulation. The Arctic ζ change is dissimilar across models, owing to differences in passive heat uptake and circulation change. Only the Arctic is strongly affected by nonlinear interactions between the three air-sea flux changes, and these are model specific.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -62,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

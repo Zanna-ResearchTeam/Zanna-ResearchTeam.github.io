@@ -28,8 +28,6 @@ publication_short: ''
 abstract: 'Accurate forecasts of the ocean state and the estimation of forecast uncertainties are crucial when it comes to providing skilful seasonal predictions. In this study we analyse the predictive skill and reliability of the ocean component in a seasonal forecasting system. Furthermore, we assess the effects of accounting for model and observational uncertainties. Ensemble forcasts are carried out with an updated version of the ECMWF seasonal forecasting model System 4, with a forecast length of ten months, initialized every May between 1981 and 2010. We find that, for essential quantities such as sea surface temperature and upper ocean 300 m heat content, the ocean forecasts are generally underdispersive and skilful beyond the first month mainly in the Tropics and parts of the North Atlantic. The reference reanalysis used for the forecast evaluation considerably affects diagnostics of forecast skill and reliability, throughout the entire ten-month forecasts but mostly during the first three months. Accounting for parametrization uncertainty by implementing stochastic parametrization perturbations has a positive impact on both reliability (from month 3 onwards) as well as forecast skill (from month 8 onwards). Skill improvements extend also to atmospheric variables such as 2 m temperature, mostly in the extratropical Pacific but also over the midlatitudes of the Americas. Hence, while model uncertainty impacts the skill of seasonal forecasts, observational uncertainty impacts our assessment of that skill. Future ocean model development should therefore aim not only to reduce model errors but to simultaneously assess and estimate uncertainties.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

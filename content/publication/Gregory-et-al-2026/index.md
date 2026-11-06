@@ -28,8 +28,6 @@ publication_short: ''
 abstract: "We showcase a hybrid modeling framework that embeds machine learning (ML) inference into the Geophysical Fluid Dynamics Laboratory Seamless System for Prediction and Earth System Research (SPEAR) climate model for online sea ice bias correction during a set of global fully coupled 1-year retrospective forecasts. We compare two hybrid versions of SPEAR to understand the importance of exposing ML models to coupled ice-atmosphere-ocean feedbacks before implementation into fully coupled simulations: HybridCPL (couple trained; with feedbacks) and HybridIO (ice ocean trained; without feedbacks). Relative to SPEAR, HybridCPL systematically reduces seasonal forecast errors in the Arctic and considerably reduces Antarctic errors for target months May to December, with >2× error reduction in 4- to 6-month lead forecasts of Antarctic winter sea ice extent. Meanwhile, HybridIO suffers from out-of-sample behavior that can trigger a chain of Southern Ocean feedbacks, leading to ice-free Antarctic summers. Our results emphasize that ML can demonstrably improve numerical sea ice prediction capabilities and that exposing ML models to coupled ice-atmosphere-ocean processes is essential for generalization in fully coupled simulations."
 # Summary. An optional shortened abstract.
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -48,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

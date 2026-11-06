@@ -25,8 +25,6 @@ publication_short: ''
 abstract: 'North Atlantic sea surface temperatures have large climate impacts affecting the weather of the Northern Hemisphere. In addition to a substantial warming over much of the North Atlantic, caused by increasing greenhouse gases over the 21st century, climate projections show a surprising region of considerable future cooling at midlatitudes, referred to as the North Atlantic warming hole. A similar pattern of surface temperature trends has been observed in recent decades, but it remains unclear whether this pattern is of anthropogenic origin or a simple manifestation of internal climate variability. Here, analyzing state-of-the-art climate models and observations, we show that the recent North Atlantic warming hole is of anthropogenic origin. Our analysis reveals that the anthropogenic signal has only recently emerged from the internal climate variability, and can be attributed to greenhouse gas emissions. We further show that a declining northward oceanic heat flux in recent decades, which is linked to this surface temperature pattern, is also of anthropogenic origin.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -44,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

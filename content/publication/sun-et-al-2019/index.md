@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'Paleoclimate proxy evidence suggests that the Atlantic meridional overturning circulation (AMOC) was about 1000 m shallower at the Last Glacial Maximum (LGM) compared to the present. Yet it remains unresolved what caused this glacial shoaling of the AMOC, and many climate models instead simulate a deeper AMOC under LGM forcing. While some studies suggest that Southern Ocean surface buoyancy forcing controls the AMOC depth, others have suggested alternatively that North Atlantic surface forcing or interior diabatic mixing plays the dominant role. To investigate the key processes that set the AMOC depth, here we carry out a number of MITgcm ocean-only simulations with surface forcing fields specified from the simulation results of three coupled climate models that span much of the range of glacial AMOC depth changes in phase 3 of the Paleoclimate Model Intercomparison Project (PMIP3). We find that the MITgcm simulations successfully reproduce the changes in AMOC depth between glacial and modern conditions simulated in these three PMIP3 models. By varying the restoring time scale in the surface forcing, we show that the AMOC depth is more strongly constrained by the surface density field than the surface buoyancy flux field. Based on these results, we propose a mechanism by which the surface density fields in the high latitudes of both hemispheres are connected to the AMOC depth. We illustrate the mechanism using MITgcm simulations with idealized surface forcing perturbations as well as an idealized conceptual geometric model. These results suggest that the AMOC depth is largely determined by the surface density fields in both the North Atlantic and the Southern Ocean.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

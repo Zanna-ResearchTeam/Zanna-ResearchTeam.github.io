@@ -23,8 +23,6 @@ publication_short: ''
 abstract: Oceanographic observations are limited by sampling rates, while ocean models are limited by finite resolution and high viscosity and diffusion coefficients. Therefore, both data from observations and ocean models lack information at small and fast scales. Methods are needed to either extract information, extrapolate, or upscale existing oceanographic data sets, to account for or represent unresolved physical processes. Here we use machine learning to leverage observations and model data by predicting unresolved turbulent processes and subsurface flow fields. As a proof of concept, we train convolutional neural networks on degraded data from a high-resolution quasi-geostrophic ocean model. We demonstrate that convolutional neural networks successfully replicate the spatiotemporal variability of the subgrid eddy momentum forcing, are capable of generalizing to a range of dynamical behaviors, and can be forced to respect global momentum conservation. The training data of our convolutional neural networks can be subsampled to 10–20% of the original size without a significant decrease in accuracy. We also show that the subsurface flow field can be predicted using only information at the surface (e.g., using only satellite altimetry data). Our results indicate that data-driven approaches can be exploited to predict both subgrid and large-scale processes, while respecting physical principles, even when data are limited to a particular region or external forcing. Our in-depth study presents evidence for the successful design of ocean eddy parameterizations for implementation in coarse-resolution climate models.
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -42,7 +40,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

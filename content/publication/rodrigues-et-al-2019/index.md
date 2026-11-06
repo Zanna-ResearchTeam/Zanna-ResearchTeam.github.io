@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'Tropical sea surface temperature (SST) and winds vary on a wide range of timescales and have a substantial impact on weather and climate across the globe. Here we study the variability of SST and zonal wind during El Niño-Southern Oscillation (ENSO) between 1982 and 2014. We focus on changes in extreme statistics using higher-order moments of SST and zonal winds. We find that ENSO characteristics exhibit bimodal distributions and fat tails with extreme warm and cold temperatures in 1982–1999, but not during 2000–2014. The changes in the distributions coincide with changes in the intensity of ENSO events and the phase of the Interdecadal Pacific Oscillation. We also find that the strongest Easterly Wind Bursts occur during extreme El Niños and not during La Niñas. Maps of SST kurtosis can serve as a diagnostic for the thermocline feedback mechanism responsible for the differences in ENSO diversity between the two periods.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

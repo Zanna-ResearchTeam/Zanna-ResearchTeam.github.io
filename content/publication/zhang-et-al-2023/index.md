@@ -27,8 +27,6 @@ abstract: "We address the question of how to use a machine learned (ML) paramete
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

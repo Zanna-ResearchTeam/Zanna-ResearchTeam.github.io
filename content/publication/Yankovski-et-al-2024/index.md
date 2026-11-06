@@ -25,8 +25,6 @@ abstract: "Mesoscale eddies modulate the stratification, mixing, tracer transpor
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

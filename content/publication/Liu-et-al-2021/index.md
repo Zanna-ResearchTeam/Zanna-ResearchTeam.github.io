@@ -32,8 +32,6 @@ abstract: 'Reliable probability estimation is of crucial importance in many real
 
 # Summary. An optional shortened abstract.
 summary: 
-tags:
-  - Source Themes
 featured: false
 
 links:

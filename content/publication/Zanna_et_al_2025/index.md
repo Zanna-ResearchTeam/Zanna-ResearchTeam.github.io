@@ -49,8 +49,6 @@ publication_short: ''
 abstract: "Climate simulations, at all grid resolutions, rely on approximations that encapsulate the forcing due to unresolved processes on resolved variables, known as parameterizations. Parameterizations often lead to inaccuracies in climate models, with significant biases in the physics of key climate phenomena. Advances in artificial intelligence (AI) are now directly enabling the learning of unresolved processes from data to improve the physics of climate simulations. Here, we introduce a flexible framework for developing and implementing physics- and scale-aware machine learning parameterizations within climate models. We focus on the ocean and sea-ice components of a state-of-the-art climate model by implementing a spectrum of data-driven parameterizations, ranging from complex deep learning models to more interpretable equation-based models. Our results showcase the viability of AI-driven parameterizations in operational models, advancing the capabilities of a new generation of hybrid simulations, and include prototypes of fully coupled atmosphere-ocean-sea-ice hybrid simulations. The tools developed are open source, accessible, and available to all."
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -68,7 +66,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

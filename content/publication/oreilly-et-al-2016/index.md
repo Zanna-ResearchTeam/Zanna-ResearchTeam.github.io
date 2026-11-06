@@ -26,8 +26,6 @@ publication_short: ''
 abstract: 'The Atlantic multidecadal oscillation (AMO) in sea surface temperature (SST) has been shown to influence the climate of the surrounding continents. However, it is unclear to what extent the observed impact of the AMO is related to the thermodynamical influence of the SST variability or the changes in large-scale atmospheric circulation. Here, an analog method is used to decompose the observed impact of the AMO into dynamical and residual components of surface air temperature (SAT) and precipitation over the adjacent continents. Over Europe the influence of the AMO is clearest during the summer, when the warm SAT anomalies are interpreted to be primarily thermodynamically driven by warm upstream SST anomalies but also amplified by the anomalous atmospheric circulation. The overall precipitation response to the AMO in summer is generally less significant than the SAT but is mostly dynamically driven. The decomposition is also applied to the North American summer and the Sahel rainy season. Both dynamical and residual influences on the anomalous precipitation over the Sahel are substantial, with the former dominating over the western Sahel region and the latter being largest over the eastern Sahel region. The results have potential implications for understanding the spread in AMO variability in coupled climate models and decadal prediction systems.'
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -45,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

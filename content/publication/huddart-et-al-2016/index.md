@@ -27,8 +27,6 @@ publication_short: ''
 abstract: 'Predictability of Atlantic Ocean sea surface temperatures (SST) on seasonal and decadal timescales is investigated using a suite of statistical linear inverse models (LIM). Observed monthly SST anomalies in the Atlantic sector (between 22∘S and 66∘N) are used to construct the LIMs for seasonal and decadal prediction. The forecast skills of the LIMs are then compared to that from two current operational forecast systems. Results indicate that the LIM has good forecast skill for time periods of 3–4 months on the seasonal timescale with enhanced predictability in the spring season. On decadal timescales, the impact of inter-annual and intra-annual variability on the predictability is also investigated. The results show that the suite of LIMs have forecast skill for about 3–4 years over most of the domain when we use only the decadal variability for the construction of the LIM. Including higher frequency variability helps improve the forecast skill and maintains the correlation of LIM predictions with the observed SST anomalies for longer periods. These results indicate the importance of temporal scale interactions in improving predictability on decadal timescales. Hence, LIMs can not only be used as benchmarks for estimates of statistical skill but also to isolate contributions to the forecast skills from different timescales, spatial scales or even model' 
 summary: 
 
-tags:
-  - Source Themes
 featured: false
 
 # links:
@@ -46,7 +44,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
